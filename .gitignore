@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI
+*.pbix
+
+# Data (keep CSVs tracked for demo; ignore huge exports)
+data/*.parquet
+data/*.xlsx

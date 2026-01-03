@@ -1,0 +1,2001 @@
+customer_id,gender,age_group,income_group,education_level,marital_status,state,customer_job,total_income,cust_satisfaction_score
+C000001,M,30-40,Med,Unknown,Unknown,NJ,Businessman,171355.03,3.6
+C000002,M,30-40,High,Post-Graduate,Single,FL,Selfemployed,189731.96,2.12
+C000003,M,40-50,Med,Graduate,Married,MI,Selfemployed,111508.42,1.76
+C000004,F,50-60,High,Unknown,Single,TX,Blue-collar,25088.55,1.72
+C000005,F,40-50,Med,Graduate,Married,MI,White-collar,228601.47,1.47
+C000006,F,30-40,High,Graduate,Unknown,NJ,Blue-collar,223518.89,3.7
+C000007,M,40-50,High,High School,Unknown,CA,Businessman,232079.91,1.55
+C000008,F,30-40,Low,Post-Graduate,Married,NY,Govt,153743.98,2.24
+C000009,M,30-40,Med,Uneducated,Unknown,NC,Blue-collar,213858.19,2.99
+C000010,M,20-30,Med,Uneducated,Unknown,NC,Selfemployed,157215.7,3.94
+C000011,F,20-30,Med,High School,Married,MI,Selfemployed,57298.37,1.98
+C000012,M,30-40,High,Doctorate,Single,CA,White-collar,186973.59,3.73
+C000013,F,50-60,Med,Graduate,Married,GA,Blue-collar,222723.72,1.05
+C000014,M,30-40,High,Uneducated,Unknown,GA,Businessman,239345.81,3.39
+C000015,M,30-40,High,Post-Graduate,Unknown,CA,Govt,195134.15,2.88
+C000016,F,40-50,Med,Uneducated,Married,GA,Selfemployed,174550.41,1.14
+C000017,F,50-60,Med,Unknown,Married,IL,Retirees,63265.34,3.05
+C000018,M,60+,High,High School,Married,NY,Retirees,119922.53,3.91
+C000019,M,30-40,Med,High School,Single,PA,Govt,216342.73,2.75
+C000020,F,50-60,Low,Graduate,Unknown,FL,Businessman,38371.61,2.72
+C000021,F,20-30,High,Unknown,Single,TX,Retirees,190040.69,2.24
+C000022,F,40-50,Med,Uneducated,Unknown,GA,Govt,188344.96,2.67
+C000023,M,40-50,High,Doctorate,Unknown,MI,Govt,212241.43,3.17
+C000024,F,50-60,High,Unknown,Unknown,NJ,Govt,71492.43,4.38
+C000025,M,60+,Low,Post-Graduate,Single,NJ,Retirees,206391.73,2.62
+C000026,M,20-30,Med,Graduate,Single,IL,Selfemployed,74937.17,2.5
+C000027,F,40-50,Low,Doctorate,Unknown,GA,White-collar,77424.52,1.93
+C000028,M,50-60,Low,Post-Graduate,Married,NJ,Govt,205739.29,1.88
+C000029,F,40-50,Low,Unknown,Single,GA,Selfemployed,151459.24,1.92
+C000030,F,40-50,Low,Doctorate,Married,GA,Selfemployed,72757.11,1.4
+C000031,F,40-50,Med,Uneducated,Married,IL,Govt,217056.7,4.43
+C000032,M,40-50,Low,High School,Single,NJ,Businessman,15731.41,3.13
+C000033,F,50-60,High,High School,Unknown,MI,Govt,46615.68,3.3
+C000034,M,40-50,Med,Post-Graduate,Unknown,IL,Businessman,62242.78,3.18
+C000035,F,40-50,Low,Doctorate,Single,NY,Selfemployed,117262.35,1.01
+C000036,F,20-30,Low,Uneducated,Unknown,IL,White-collar,83482.19,1.04
+C000037,M,40-50,Med,Uneducated,Single,NJ,Blue-collar,236751.97,1.99
+C000038,F,50-60,Med,Doctorate,Married,FL,Govt,70593.4,4.2
+C000039,M,30-40,Med,Uneducated,Unknown,NC,Businessman,182338.29,3.55
+C000040,F,60+,High,High School,Unknown,PA,Retirees,230812.55,4.03
+C000041,M,40-50,Med,Post-Graduate,Married,IL,Retirees,203427.91,2.93
+C000042,F,30-40,Med,Post-Graduate,Single,PA,Businessman,191495.1,3.93
+C000043,M,40-50,Med,High School,Unknown,NY,White-collar,111197.92,4.23
+C000044,F,30-40,Low,Unknown,Married,GA,Retirees,168364.15,3.59
+C000045,F,60+,Med,Doctorate,Married,NJ,Blue-collar,74446.69,4.1
+C000046,M,40-50,Med,Unknown,Single,TX,White-collar,121930.43,4.49
+C000047,F,30-40,Low,Post-Graduate,Single,NJ,Govt,232671.15,4.35
+C000048,F,60+,Low,High School,Unknown,NY,Govt,207349.23,2.19
+C000049,F,30-40,Low,Doctorate,Single,PA,Govt,236104.45,3.24
+C000050,M,40-50,High,Doctorate,Single,PA,Selfemployed,170586.58,2.06
+C000051,M,20-30,Med,Doctorate,Unknown,NC,White-collar,32039.39,3.8
+C000052,M,40-50,Low,Uneducated,Married,NJ,Blue-collar,214424.1,2.13
+C000053,F,40-50,Low,Unknown,Married,MI,Blue-collar,109711.88,1.46
+C000054,M,20-30,Low,High School,Married,FL,Businessman,119884.32,3.67
+C000055,M,30-40,Med,Unknown,Single,NC,Selfemployed,54921.21,3.59
+C000056,M,40-50,Low,Graduate,Unknown,MI,White-collar,141348.54,2.11
+C000057,F,50-60,Low,Graduate,Married,FL,Selfemployed,70753.59,2.34
+C000058,M,20-30,Low,Graduate,Unknown,IL,Blue-collar,84847.72,2.89
+C000059,F,40-50,Low,Doctorate,Single,PA,Selfemployed,95988.55,1.61
+C000060,M,30-40,Med,Unknown,Single,FL,Retirees,51214.47,4.74
+C000061,F,50-60,Med,Post-Graduate,Married,NC,Blue-collar,15372.95,1.23
+C000062,M,50-60,Med,Post-Graduate,Unknown,CA,Retirees,76761.96,1.53
+C000063,M,50-60,Med,Unknown,Unknown,GA,Retirees,108645.2,2.26
+C000064,M,60+,Med,High School,Married,PA,White-collar,134035.05,4.32
+C000065,M,40-50,Low,Uneducated,Single,GA,Blue-collar,223438.93,2.43
+C000066,F,50-60,Low,High School,Unknown,TX,Selfemployed,112011.65,2.04
+C000067,M,60+,High,High School,Married,GA,White-collar,91546.72,4.1
+C000068,M,50-60,Low,Graduate,Unknown,CA,Govt,100564.64,1.79
+C000069,M,50-60,Med,Unknown,Single,GA,White-collar,247568.9,4.36
+C000070,M,40-50,Med,High School,Married,NC,White-collar,17978.52,1.41
+C000071,M,30-40,Med,Graduate,Unknown,NJ,Retirees,129893.74,4.09
+C000072,F,60+,Med,High School,Married,NC,Retirees,112697.83,4.19
+C000073,F,40-50,High,Post-Graduate,Unknown,IL,Retirees,33641.17,4.26
+C000074,F,30-40,Low,Graduate,Single,PA,Selfemployed,77715.38,4.12
+C000075,F,40-50,Med,Uneducated,Unknown,MI,Businessman,136196.06,4.04
+C000076,F,60+,Low,Doctorate,Single,NY,White-collar,213507.3,1.88
+C000077,M,40-50,Med,Graduate,Unknown,MI,Blue-collar,121982.36,2.55
+C000078,M,50-60,Low,Doctorate,Single,MI,Businessman,108142.39,1.24
+C000079,M,50-60,Med,High School,Married,IL,Selfemployed,45155.64,3.08
+C000080,F,60+,Low,Post-Graduate,Unknown,PA,Businessman,77250.03,2.77
+C000081,F,50-60,Med,Post-Graduate,Single,FL,Selfemployed,234751.83,3.26
+C000082,M,30-40,Low,High School,Single,MI,Selfemployed,201476.74,3.86
+C000083,F,40-50,Low,Uneducated,Single,IL,Retirees,26675.76,3.27
+C000084,M,30-40,High,Doctorate,Married,NJ,Selfemployed,161702.1,3.59
+C000085,F,40-50,Med,Unknown,Married,NC,Retirees,164962.7,1.64
+C000086,F,40-50,Low,High School,Unknown,NY,White-collar,197731.38,1.69
+C000087,F,30-40,Low,Doctorate,Single,FL,Blue-collar,142131.97,2.99
+C000088,M,40-50,High,Post-Graduate,Unknown,NY,Govt,74874.39,4.78
+C000089,F,50-60,Low,Uneducated,Married,GA,Govt,159831.28,1.66
+C000090,F,40-50,Low,Doctorate,Single,GA,Govt,108637.18,1.1
+C000091,F,30-40,Med,Graduate,Unknown,GA,Selfemployed,60530.28,3.82
+C000092,M,50-60,High,Uneducated,Married,IL,White-collar,110784.59,2.44
+C000093,F,50-60,Low,Unknown,Unknown,GA,Selfemployed,117961.23,3.03
+C000094,F,60+,Med,Doctorate,Single,PA,White-collar,47123.27,3.92
+C000095,F,50-60,Low,Uneducated,Married,TX,Businessman,207365.71,1.74
+C000096,F,50-60,Low,Post-Graduate,Married,NJ,Selfemployed,34923.4,4.31
+C000097,M,50-60,High,Post-Graduate,Single,NC,Selfemployed,203936.12,1.73
+C000098,M,20-30,Med,Graduate,Single,PA,Blue-collar,145007.02,2.86
+C000099,F,30-40,Med,Doctorate,Unknown,NJ,Selfemployed,137865.48,2.55
+C000100,F,30-40,Med,Unknown,Married,GA,Govt,149134.68,3.4
+C000101,M,40-50,Med,High School,Unknown,FL,Businessman,173935.04,1.6
+C000102,F,40-50,Low,High School,Single,IL,Selfemployed,153123.26,4.56
+C000103,M,50-60,High,Unknown,Unknown,IL,White-collar,104246.7,4.46
+C000104,M,60+,High,Unknown,Unknown,CA,Retirees,162354.13,4.96
+C000105,F,50-60,Med,Unknown,Single,GA,White-collar,139355.56,4.26
+C000106,M,40-50,Low,Uneducated,Single,GA,White-collar,154602.46,2.36
+C000107,M,50-60,Med,Post-Graduate,Married,MI,White-collar,235386.6,4.91
+C000108,F,40-50,Low,Unknown,Married,PA,Businessman,201012.92,1.72
+C000109,M,40-50,High,High School,Unknown,MI,Selfemployed,204408.72,2.61
+C000110,F,60+,Med,Unknown,Single,MI,Businessman,208090.73,1.8
+C000111,M,30-40,High,Unknown,Married,IL,White-collar,214144.51,1.32
+C000112,F,30-40,Low,Graduate,Single,CA,Selfemployed,204582.21,3.93
+C000113,M,30-40,High,Unknown,Married,TX,Selfemployed,229077.71,4.07
+C000114,F,40-50,Low,Graduate,Single,FL,Retirees,110384.09,1.71
+C000115,M,40-50,Med,Post-Graduate,Single,MI,Blue-collar,131432.51,3.15
+C000116,F,50-60,Low,Post-Graduate,Married,NY,Selfemployed,247692.65,3.11
+C000117,F,40-50,High,Graduate,Single,NY,Govt,98897.3,1.5
+C000118,F,40-50,Med,Doctorate,Single,PA,Retirees,141449.73,2.84
+C000119,F,40-50,Low,Graduate,Single,TX,Selfemployed,162856.9,4.37
+C000120,M,60+,High,Uneducated,Unknown,MI,Blue-collar,183707.57,2.27
+C000121,M,40-50,Med,Post-Graduate,Unknown,CA,Govt,181727.59,1.68
+C000122,M,40-50,Low,Post-Graduate,Married,IL,White-collar,160810.09,1.11
+C000123,F,40-50,Low,Post-Graduate,Married,NY,Businessman,63684.84,3.65
+C000124,M,60+,High,Post-Graduate,Single,NJ,White-collar,219146.41,4.43
+C000125,M,40-50,Med,High School,Married,PA,Govt,210541.63,1.31
+C000126,M,30-40,Med,High School,Single,GA,Govt,16486.43,1.77
+C000127,F,40-50,Low,Doctorate,Married,GA,Selfemployed,208281.05,3.99
+C000128,F,40-50,High,Unknown,Single,NJ,White-collar,144310.54,3.27
+C000129,M,40-50,Med,Post-Graduate,Unknown,NY,Retirees,152749.81,2.18
+C000130,F,30-40,Low,Uneducated,Married,IL,Govt,145915.54,1.23
+C000131,F,50-60,High,Uneducated,Unknown,FL,Retirees,40028.91,2.81
+C000132,F,40-50,Med,Post-Graduate,Unknown,NY,White-collar,234247.36,3.12
+C000133,M,30-40,High,Uneducated,Single,NY,Blue-collar,246461.59,4.9
+C000134,M,50-60,Low,Unknown,Married,PA,Govt,139976.22,2.14
+C000135,M,30-40,Low,High School,Married,CA,Govt,213437.97,2.37
+C000136,M,30-40,Low,High School,Single,FL,Retirees,149090.77,4.5
+C000137,F,20-30,Low,Post-Graduate,Single,NC,White-collar,153031.89,4.27
+C000138,F,50-60,Low,Post-Graduate,Married,PA,Govt,141620.08,2.82
+C000139,M,40-50,High,Post-Graduate,Married,CA,Govt,78592.98,2.83
+C000140,M,30-40,High,Post-Graduate,Single,NC,Selfemployed,203205.95,2.13
+C000141,M,60+,High,High School,Unknown,FL,Businessman,184398.29,1.47
+C000142,M,60+,High,Graduate,Unknown,GA,Retirees,45354.17,4.75
+C000143,F,40-50,Med,High School,Unknown,PA,Selfemployed,223080.9,1.56
+C000144,F,30-40,Med,Uneducated,Married,NJ,Selfemployed,66852.94,3.64
+C000145,M,30-40,Low,Unknown,Single,NY,Retirees,67749.34,3.75
+C000146,M,40-50,High,Doctorate,Married,IL,Blue-collar,120059.45,2.23
+C000147,F,50-60,Med,Post-Graduate,Unknown,PA,Govt,180938.95,2.73
+C000148,F,50-60,High,Uneducated,Single,NY,Retirees,15827.27,3.01
+C000149,M,20-30,Low,High School,Unknown,NC,Blue-collar,159560.09,4.64
+C000150,M,50-60,Med,Unknown,Single,NY,Blue-collar,109462.36,4.33
+C000151,F,50-60,Low,Doctorate,Unknown,NJ,Govt,52365.24,3.73
+C000152,F,30-40,Low,Unknown,Married,NC,Blue-collar,198733.95,3.23
+C000153,F,20-30,Med,Graduate,Unknown,NC,Businessman,78098.69,4.84
+C000154,M,40-50,Low,High School,Married,IL,Govt,109514.24,2.46
+C000155,F,50-60,Med,Doctorate,Married,MI,Blue-collar,84285.2,2.84
+C000156,M,50-60,Low,Doctorate,Unknown,NJ,Selfemployed,210912.58,1.9
+C000157,M,40-50,High,Graduate,Married,FL,Govt,89040.41,1.01
+C000158,M,50-60,Low,Doctorate,Married,PA,Blue-collar,167052.32,2.49
+C000159,M,20-30,High,Uneducated,Single,NJ,Businessman,64816.2,2.11
+C000160,F,30-40,Med,Doctorate,Married,NC,Selfemployed,30674.17,1.95
+C000161,M,50-60,Low,Graduate,Single,MI,Businessman,74056.74,4.1
+C000162,F,40-50,High,Uneducated,Married,PA,Businessman,22888.77,2.04
+C000163,F,40-50,Med,High School,Unknown,FL,Blue-collar,119876.26,3.09
+C000164,M,40-50,Med,Doctorate,Unknown,PA,Blue-collar,89459.0,3.3
+C000165,M,50-60,Med,High School,Unknown,TX,Blue-collar,170203.0,4.4
+C000166,F,30-40,High,Doctorate,Married,TX,Govt,21808.74,4.39
+C000167,F,50-60,Med,Unknown,Unknown,GA,Retirees,196302.21,3.06
+C000168,F,40-50,Med,Uneducated,Married,FL,Retirees,122925.95,1.11
+C000169,F,40-50,High,Doctorate,Unknown,NJ,Blue-collar,117681.48,3.73
+C000170,F,40-50,Med,Uneducated,Married,NC,Blue-collar,128903.76,1.87
+C000171,M,50-60,Med,Post-Graduate,Unknown,NC,Govt,116644.32,1.1
+C000172,F,30-40,High,Uneducated,Married,TX,Govt,58405.0,3.32
+C000173,F,40-50,Low,Graduate,Unknown,NC,Retirees,247290.45,3.19
+C000174,M,50-60,High,Uneducated,Single,MI,Selfemployed,171247.46,1.11
+C000175,M,20-30,High,Unknown,Married,FL,Businessman,81306.38,1.26
+C000176,F,50-60,Med,Unknown,Single,MI,White-collar,223131.12,3.47
+C000177,M,40-50,Med,Post-Graduate,Unknown,NJ,Retirees,225369.95,3.21
+C000178,F,60+,Med,Post-Graduate,Married,TX,Retirees,76956.1,3.57
+C000179,F,40-50,Med,Graduate,Married,PA,Selfemployed,121517.45,4.03
+C000180,F,40-50,Med,Unknown,Unknown,FL,White-collar,140596.96,2.45
+C000181,F,30-40,Med,Post-Graduate,Single,NJ,Govt,207192.23,4.59
+C000182,F,50-60,High,Post-Graduate,Single,MI,Blue-collar,40169.03,1.82
+C000183,F,40-50,High,Uneducated,Single,NJ,Govt,203822.49,4.31
+C000184,M,40-50,High,Unknown,Married,CA,Retirees,129168.45,2.67
+C000185,F,30-40,Med,Unknown,Married,GA,Businessman,135445.43,2.95
+C000186,M,30-40,Med,Doctorate,Unknown,PA,Govt,193198.13,4.29
+C000187,M,40-50,Med,Doctorate,Single,TX,Blue-collar,185836.13,3.75
+C000188,F,20-30,Low,Unknown,Married,NC,Govt,67902.08,1.63
+C000189,M,40-50,High,Post-Graduate,Married,PA,Blue-collar,130197.52,1.75
+C000190,F,50-60,Low,Unknown,Single,NJ,Businessman,88988.78,2.17
+C000191,M,40-50,Med,Post-Graduate,Unknown,FL,White-collar,29241.3,3.08
+C000192,F,30-40,Low,Unknown,Unknown,NJ,Retirees,43946.46,1.31
+C000193,M,50-60,Low,Unknown,Married,MI,Govt,75142.44,3.55
+C000194,M,50-60,Low,Graduate,Married,PA,White-collar,52138.05,4.55
+C000195,F,40-50,High,Uneducated,Single,NJ,Businessman,40817.62,2.11
+C000196,F,50-60,High,Doctorate,Single,MI,Businessman,32030.79,4.94
+C000197,M,60+,High,Uneducated,Single,FL,Govt,154461.8,1.41
+C000198,M,30-40,Med,Unknown,Single,CA,Selfemployed,63907.8,3.0
+C000199,M,50-60,Low,Graduate,Married,NC,Businessman,67815.95,4.51
+C000200,F,60+,Low,Unknown,Single,IL,Selfemployed,82390.68,4.77
+C000201,F,40-50,Low,High School,Unknown,NY,Retirees,77590.99,2.55
+C000202,F,40-50,Low,Uneducated,Married,NC,White-collar,240126.62,1.42
+C000203,F,60+,Med,High School,Unknown,GA,Govt,39500.58,2.28
+C000204,M,50-60,High,Uneducated,Unknown,FL,Blue-collar,82158.61,3.43
+C000205,F,20-30,Low,Doctorate,Married,TX,Blue-collar,86287.8,1.15
+C000206,F,40-50,Med,Graduate,Single,FL,Blue-collar,225121.82,3.71
+C000207,M,30-40,Med,Doctorate,Single,GA,Selfemployed,146375.89,3.61
+C000208,F,50-60,High,High School,Single,NJ,White-collar,168936.76,1.7
+C000209,F,60+,High,Uneducated,Married,FL,Govt,172906.83,2.95
+C000210,F,50-60,Low,High School,Married,NJ,White-collar,166886.37,4.34
+C000211,F,50-60,High,Unknown,Single,MI,Retirees,117933.35,4.43
+C000212,F,60+,Low,Unknown,Married,PA,Retirees,77376.66,3.9
+C000213,M,50-60,Low,Post-Graduate,Single,GA,Blue-collar,33219.18,4.41
+C000214,M,60+,Med,Doctorate,Single,IL,White-collar,23936.38,4.68
+C000215,M,60+,Med,Unknown,Married,TX,Retirees,231167.21,3.66
+C000216,F,40-50,High,Graduate,Single,IL,White-collar,172340.65,1.24
+C000217,F,40-50,High,Doctorate,Unknown,NY,Govt,247906.17,3.24
+C000218,M,50-60,Med,Unknown,Single,PA,Govt,108215.0,4.92
+C000219,F,50-60,Med,Graduate,Single,GA,Selfemployed,223552.0,2.42
+C000220,F,20-30,Low,Doctorate,Single,NY,Businessman,67364.66,2.39
+C000221,M,50-60,Low,High School,Unknown,FL,White-collar,195144.59,1.92
+C000222,F,50-60,High,Doctorate,Unknown,NJ,Retirees,128767.78,3.74
+C000223,M,40-50,Med,Doctorate,Unknown,CA,White-collar,107040.26,4.13
+C000224,M,40-50,High,Uneducated,Single,MI,Retirees,62069.86,1.17
+C000225,F,40-50,High,Unknown,Unknown,MI,Selfemployed,143418.57,1.87
+C000226,M,60+,Low,Post-Graduate,Unknown,IL,White-collar,128756.8,3.4
+C000227,M,50-60,Med,High School,Married,FL,Selfemployed,84219.95,4.5
+C000228,M,40-50,Low,Graduate,Unknown,NJ,Businessman,243809.33,1.01
+C000229,M,50-60,High,Uneducated,Married,IL,Blue-collar,169650.04,2.21
+C000230,F,40-50,Med,Graduate,Married,NJ,Blue-collar,181097.47,2.12
+C000231,F,50-60,Low,Post-Graduate,Single,GA,Blue-collar,98958.13,3.55
+C000232,F,60+,High,Graduate,Married,GA,Blue-collar,115390.64,1.81
+C000233,M,50-60,Med,Unknown,Married,IL,White-collar,125789.29,3.66
+C000234,M,50-60,High,Graduate,Unknown,NC,Selfemployed,105766.06,4.53
+C000235,F,20-30,Low,Post-Graduate,Married,CA,Retirees,26448.97,4.93
+C000236,F,40-50,High,Doctorate,Married,IL,Businessman,197936.01,1.32
+C000237,F,40-50,High,Unknown,Married,MI,Blue-collar,36585.2,3.65
+C000238,F,60+,Med,Uneducated,Unknown,GA,Blue-collar,39727.45,1.07
+C000239,M,50-60,High,Uneducated,Married,NC,White-collar,134965.79,2.91
+C000240,M,40-50,Low,Doctorate,Unknown,GA,Selfemployed,179187.94,3.67
+C000241,M,20-30,High,Graduate,Single,NC,Govt,248685.88,1.52
+C000242,M,30-40,High,Unknown,Unknown,TX,Blue-collar,190454.46,4.69
+C000243,M,40-50,Med,Uneducated,Married,CA,Businessman,98276.72,1.69
+C000244,F,40-50,High,Post-Graduate,Single,NY,Businessman,233133.64,3.27
+C000245,M,40-50,High,Uneducated,Married,TX,Selfemployed,111578.06,1.75
+C000246,M,50-60,Low,Doctorate,Married,MI,White-collar,145716.7,3.66
+C000247,M,50-60,Low,Uneducated,Married,MI,Selfemployed,235990.43,4.57
+C000248,M,30-40,Med,Post-Graduate,Unknown,NC,Retirees,151931.45,2.6
+C000249,F,50-60,Med,Post-Graduate,Married,MI,Businessman,210064.77,3.84
+C000250,F,40-50,High,Uneducated,Single,NY,Businessman,186032.31,3.81
+C000251,M,30-40,Med,Doctorate,Single,GA,White-collar,110225.4,4.66
+C000252,M,40-50,Med,Uneducated,Unknown,GA,Blue-collar,32009.41,1.75
+C000253,M,30-40,Low,Doctorate,Single,NJ,Blue-collar,99240.29,3.68
+C000254,M,40-50,Low,Doctorate,Single,NC,Businessman,223017.27,2.94
+C000255,F,30-40,High,Graduate,Unknown,NJ,Businessman,137964.67,3.31
+C000256,M,50-60,Low,Unknown,Unknown,CA,Govt,116581.05,2.28
+C000257,M,40-50,Low,Unknown,Unknown,FL,Businessman,65005.19,2.92
+C000258,F,40-50,Low,Doctorate,Unknown,PA,Retirees,58879.4,3.87
+C000259,F,40-50,High,Unknown,Married,CA,Govt,116286.07,1.16
+C000260,M,40-50,Med,Uneducated,Single,PA,Blue-collar,61974.16,3.19
+C000261,M,30-40,Med,Post-Graduate,Single,CA,White-collar,228950.34,1.46
+C000262,F,40-50,Med,Uneducated,Single,MI,Govt,245635.82,2.17
+C000263,F,40-50,High,Uneducated,Unknown,FL,Selfemployed,60290.27,4.63
+C000264,M,50-60,Low,Post-Graduate,Married,CA,Blue-collar,141317.5,3.47
+C000265,M,60+,High,High School,Married,NJ,Blue-collar,117731.59,3.82
+C000266,M,40-50,Med,Doctorate,Unknown,IL,White-collar,237772.04,4.71
+C000267,M,20-30,High,Graduate,Unknown,NY,Retirees,232056.26,4.5
+C000268,F,40-50,Med,Post-Graduate,Unknown,PA,Govt,87512.07,2.93
+C000269,F,50-60,Med,High School,Unknown,NC,White-collar,178370.84,3.11
+C000270,F,60+,Low,Uneducated,Unknown,TX,White-collar,242941.54,1.23
+C000271,F,30-40,Low,Graduate,Single,TX,White-collar,221058.62,2.6
+C000272,M,50-60,Med,High School,Unknown,NJ,Businessman,42046.41,3.41
+C000273,M,60+,High,High School,Unknown,GA,Blue-collar,83211.28,2.68
+C000274,F,50-60,Med,Post-Graduate,Unknown,FL,Blue-collar,154612.79,4.13
+C000275,F,30-40,Med,Graduate,Unknown,PA,Businessman,177048.88,4.33
+C000276,F,30-40,High,High School,Single,PA,Businessman,217942.29,2.03
+C000277,F,50-60,Low,Post-Graduate,Single,MI,Blue-collar,31226.94,2.97
+C000278,M,30-40,Med,Doctorate,Unknown,NC,Retirees,68449.86,2.3
+C000279,F,20-30,High,Graduate,Single,GA,Blue-collar,203606.83,3.5
+C000280,F,40-50,Med,High School,Single,PA,White-collar,46732.23,4.81
+C000281,F,50-60,High,High School,Married,PA,Businessman,25653.46,4.48
+C000282,M,20-30,Low,High School,Married,CA,Retirees,17039.65,1.39
+C000283,M,40-50,Med,Doctorate,Married,CA,Selfemployed,219996.61,3.7
+C000284,M,50-60,Low,Post-Graduate,Married,GA,Selfemployed,162984.78,2.31
+C000285,M,30-40,Low,Uneducated,Married,NY,White-collar,197480.55,3.38
+C000286,M,40-50,Med,High School,Married,NJ,Businessman,148834.07,2.3
+C000287,F,30-40,Med,Post-Graduate,Married,CA,Selfemployed,89692.4,1.47
+C000288,F,30-40,High,Graduate,Unknown,NJ,White-collar,143151.89,3.13
+C000289,F,50-60,High,Unknown,Single,NC,Blue-collar,154894.24,2.08
+C000290,M,50-60,High,Unknown,Married,IL,Businessman,58453.85,1.85
+C000291,M,50-60,Low,Uneducated,Married,PA,Blue-collar,95721.1,1.99
+C000292,F,60+,Low,Post-Graduate,Single,GA,Blue-collar,36635.08,1.39
+C000293,M,40-50,Med,Uneducated,Married,PA,Govt,140201.27,3.7
+C000294,F,40-50,Low,Graduate,Married,NY,Businessman,100969.5,1.04
+C000295,F,50-60,Low,Graduate,Unknown,GA,Retirees,117936.42,4.32
+C000296,F,40-50,Low,Doctorate,Unknown,FL,Businessman,31891.91,2.43
+C000297,M,40-50,High,Post-Graduate,Unknown,IL,Govt,192386.49,1.7
+C000298,F,30-40,High,Graduate,Married,GA,Govt,171816.02,3.02
+C000299,M,50-60,Med,Uneducated,Single,PA,Govt,26854.16,1.57
+C000300,F,30-40,High,Graduate,Unknown,FL,Businessman,82420.21,3.4
+C000301,F,50-60,Low,Doctorate,Married,MI,Selfemployed,174701.12,1.36
+C000302,F,60+,High,High School,Single,GA,Govt,130830.8,2.78
+C000303,F,40-50,Low,Unknown,Single,TX,Retirees,69795.34,4.21
+C000304,M,40-50,Med,Unknown,Single,NY,White-collar,92394.13,3.44
+C000305,M,40-50,Low,Graduate,Single,IL,Selfemployed,245686.38,2.64
+C000306,M,40-50,High,Unknown,Single,MI,Govt,80555.31,2.45
+C000307,F,60+,Med,Post-Graduate,Married,PA,Blue-collar,166674.51,4.13
+C000308,F,30-40,Low,Unknown,Married,IL,Selfemployed,46773.83,2.86
+C000309,M,40-50,High,Doctorate,Unknown,MI,Govt,146592.28,1.32
+C000310,M,40-50,Med,High School,Married,CA,Blue-collar,24885.46,1.95
+C000311,M,40-50,Low,Uneducated,Unknown,FL,Govt,84250.97,1.64
+C000312,F,40-50,Med,High School,Single,TX,Selfemployed,234949.35,3.4
+C000313,M,40-50,Med,High School,Single,NY,Retirees,105518.55,4.91
+C000314,F,60+,Med,Doctorate,Unknown,FL,Businessman,17799.98,3.11
+C000315,F,50-60,Med,Graduate,Married,GA,Govt,49818.83,4.51
+C000316,M,50-60,High,High School,Single,NJ,Selfemployed,187582.15,2.77
+C000317,M,60+,Low,Uneducated,Single,NJ,Retirees,195949.97,4.71
+C000318,F,40-50,Low,High School,Married,CA,Retirees,95945.47,1.41
+C000319,F,50-60,Low,Doctorate,Single,IL,White-collar,80652.12,2.28
+C000320,M,30-40,Med,Graduate,Unknown,TX,White-collar,78879.94,1.46
+C000321,M,30-40,Med,Doctorate,Married,FL,Blue-collar,47142.81,4.13
+C000322,M,60+,Low,Doctorate,Single,TX,Blue-collar,77566.1,4.11
+C000323,F,30-40,Low,Graduate,Single,NY,Blue-collar,208066.45,2.84
+C000324,F,30-40,Low,Unknown,Single,TX,Selfemployed,96249.91,3.17
+C000325,M,40-50,High,Doctorate,Unknown,CA,Retirees,46792.49,3.8
+C000326,M,50-60,High,Unknown,Unknown,TX,Govt,25643.84,4.23
+C000327,M,20-30,Low,Post-Graduate,Married,PA,Selfemployed,135221.49,1.94
+C000328,F,20-30,Low,Post-Graduate,Married,IL,Govt,107847.23,3.4
+C000329,M,50-60,High,Post-Graduate,Single,TX,Blue-collar,239792.76,1.62
+C000330,M,60+,Low,Doctorate,Married,MI,Retirees,153722.72,2.61
+C000331,M,50-60,Med,Uneducated,Married,CA,Blue-collar,37037.58,2.25
+C000332,F,20-30,Med,Unknown,Married,NJ,Govt,27654.87,1.55
+C000333,F,60+,Med,Unknown,Unknown,PA,Businessman,45012.45,1.33
+C000334,F,40-50,Low,Unknown,Married,TX,Govt,51432.04,4.85
+C000335,F,40-50,Med,Uneducated,Unknown,GA,Govt,42948.98,4.47
+C000336,M,40-50,Low,High School,Married,GA,Govt,186410.76,3.66
+C000337,M,40-50,Med,Doctorate,Single,GA,Blue-collar,226771.07,1.95
+C000338,F,50-60,Low,Post-Graduate,Unknown,GA,White-collar,208397.39,4.85
+C000339,F,50-60,High,Unknown,Married,GA,Retirees,79567.82,2.39
+C000340,M,30-40,Low,Unknown,Unknown,GA,Retirees,43982.83,4.42
+C000341,M,40-50,Med,Unknown,Unknown,NJ,Retirees,16424.2,4.83
+C000342,M,30-40,Med,Uneducated,Unknown,NC,White-collar,105859.23,2.23
+C000343,M,30-40,High,Post-Graduate,Unknown,PA,Selfemployed,141590.01,4.19
+C000344,M,20-30,High,Unknown,Single,FL,Retirees,77791.33,1.18
+C000345,M,20-30,Med,Unknown,Single,TX,Blue-collar,80881.74,2.98
+C000346,F,50-60,High,Post-Graduate,Married,TX,Blue-collar,63950.13,2.44
+C000347,F,50-60,Low,Uneducated,Married,GA,Blue-collar,168308.34,1.24
+C000348,F,20-30,Med,Unknown,Single,PA,Businessman,176058.19,1.91
+C000349,F,40-50,Med,Doctorate,Unknown,NC,Businessman,128855.26,2.95
+C000350,M,50-60,Med,Doctorate,Unknown,GA,Retirees,64166.11,1.44
+C000351,F,60+,Low,Post-Graduate,Married,TX,Blue-collar,222804.01,1.79
+C000352,M,50-60,High,Graduate,Unknown,TX,Businessman,85139.78,4.4
+C000353,M,40-50,Low,Post-Graduate,Married,GA,Selfemployed,162792.8,2.13
+C000354,M,40-50,Med,Uneducated,Unknown,CA,Blue-collar,208143.76,4.0
+C000355,M,40-50,Med,Post-Graduate,Single,NY,White-collar,21076.65,1.39
+C000356,F,30-40,Low,High School,Single,GA,Selfemployed,62897.22,2.78
+C000357,F,30-40,High,Graduate,Single,IL,Businessman,238197.12,1.36
+C000358,F,50-60,High,High School,Unknown,CA,Govt,138572.1,2.45
+C000359,F,40-50,Low,Unknown,Married,CA,Blue-collar,40541.28,1.8
+C000360,M,50-60,Low,Doctorate,Unknown,TX,Retirees,82792.88,4.69
+C000361,F,30-40,High,Post-Graduate,Single,GA,Businessman,210130.67,4.57
+C000362,M,40-50,Low,Unknown,Single,FL,Selfemployed,88410.64,4.84
+C000363,F,30-40,Low,High School,Single,NY,Blue-collar,190468.53,1.88
+C000364,M,20-30,Low,Uneducated,Married,GA,Businessman,139536.47,4.99
+C000365,M,40-50,High,High School,Unknown,MI,Retirees,217679.66,3.57
+C000366,F,40-50,Low,Graduate,Married,FL,Businessman,22229.71,3.6
+C000367,M,60+,Med,Graduate,Married,PA,Businessman,111498.32,2.51
+C000368,F,40-50,High,Graduate,Married,NY,Retirees,34499.85,4.14
+C000369,M,50-60,High,Post-Graduate,Single,NC,White-collar,223871.36,2.49
+C000370,F,50-60,Low,Graduate,Unknown,TX,Businessman,173961.96,3.3
+C000371,M,50-60,Low,Graduate,Married,CA,White-collar,27999.58,2.3
+C000372,M,50-60,High,Post-Graduate,Married,IL,Businessman,170147.37,3.55
+C000373,M,50-60,Med,Graduate,Unknown,FL,Selfemployed,154485.36,4.29
+C000374,M,30-40,Low,Graduate,Married,FL,Retirees,140346.7,1.75
+C000375,F,50-60,High,Uneducated,Unknown,NC,Retirees,72489.06,3.46
+C000376,M,50-60,High,Doctorate,Unknown,FL,White-collar,88769.25,1.43
+C000377,F,40-50,Med,Post-Graduate,Unknown,CA,Govt,73308.12,2.02
+C000378,M,40-50,Med,Graduate,Married,NC,Selfemployed,145389.04,1.58
+C000379,M,50-60,High,High School,Single,NJ,White-collar,191213.32,2.82
+C000380,M,40-50,High,Doctorate,Unknown,NC,Retirees,123171.69,4.98
+C000381,M,30-40,High,Graduate,Single,CA,Retirees,29451.38,4.04
+C000382,M,50-60,High,High School,Married,TX,Govt,21966.35,3.87
+C000383,M,50-60,Low,Post-Graduate,Married,PA,White-collar,47676.28,1.41
+C000384,F,20-30,Low,Unknown,Single,GA,Govt,206835.2,1.03
+C000385,F,50-60,Low,Doctorate,Married,NC,White-collar,74592.81,4.79
+C000386,M,30-40,High,Unknown,Married,MI,Blue-collar,222657.17,1.3
+C000387,F,50-60,Low,Graduate,Single,GA,Selfemployed,104218.95,4.93
+C000388,M,30-40,Low,Doctorate,Unknown,FL,White-collar,224207.81,3.41
+C000389,F,20-30,High,Graduate,Unknown,MI,Blue-collar,22672.34,4.64
+C000390,M,30-40,Low,Doctorate,Unknown,IL,White-collar,149706.73,1.36
+C000391,F,40-50,Med,Doctorate,Unknown,PA,Blue-collar,245323.85,2.08
+C000392,F,40-50,High,Uneducated,Married,CA,Govt,233605.41,2.28
+C000393,M,50-60,Low,Post-Graduate,Married,MI,Selfemployed,45646.91,1.89
+C000394,M,30-40,High,Post-Graduate,Single,NY,Govt,162500.22,4.48
+C000395,M,30-40,Med,High School,Unknown,GA,Businessman,24505.66,4.5
+C000396,F,20-30,Low,Doctorate,Unknown,TX,Govt,239274.68,3.95
+C000397,M,30-40,High,Graduate,Married,CA,Selfemployed,64886.39,1.94
+C000398,M,30-40,Med,Graduate,Single,PA,Businessman,154738.02,3.53
+C000399,F,30-40,Low,Unknown,Single,NJ,Retirees,43640.89,4.18
+C000400,M,40-50,Med,High School,Unknown,MI,Businessman,66735.66,4.07
+C000401,F,50-60,High,Uneducated,Married,CA,Retirees,36515.63,2.92
+C000402,M,30-40,Med,Post-Graduate,Unknown,NC,Retirees,200135.4,3.83
+C000403,F,60+,High,Unknown,Single,PA,Retirees,191795.75,2.24
+C000404,F,50-60,Med,Unknown,Single,PA,Businessman,54624.31,1.09
+C000405,F,30-40,Low,High School,Single,NY,Businessman,32434.88,2.24
+C000406,F,20-30,High,Doctorate,Single,NC,Govt,136521.22,1.49
+C000407,F,30-40,Med,Unknown,Single,FL,Blue-collar,188768.15,4.36
+C000408,M,40-50,Med,Uneducated,Single,TX,Selfemployed,119503.91,1.1
+C000409,M,30-40,Med,Uneducated,Unknown,PA,Blue-collar,100764.21,3.18
+C000410,F,40-50,Med,Unknown,Single,NC,White-collar,137209.01,1.83
+C000411,M,40-50,Low,Unknown,Unknown,GA,Businessman,78788.41,1.86
+C000412,F,40-50,High,Uneducated,Unknown,GA,Businessman,109210.49,1.14
+C000413,M,50-60,Low,Doctorate,Single,NY,White-collar,116109.43,1.62
+C000414,F,50-60,Med,Uneducated,Single,NY,Businessman,91292.31,1.9
+C000415,M,20-30,Low,High School,Married,GA,Retirees,171867.0,1.84
+C000416,M,50-60,High,Unknown,Married,GA,Retirees,54753.75,2.92
+C000417,M,30-40,Med,High School,Single,MI,Businessman,51098.03,4.59
+C000418,M,30-40,Med,Graduate,Unknown,MI,Govt,192452.67,2.61
+C000419,F,20-30,Low,Doctorate,Single,GA,Govt,196961.48,2.18
+C000420,F,60+,Med,Graduate,Single,IL,White-collar,164804.75,2.77
+C000421,M,40-50,Low,Doctorate,Unknown,MI,Businessman,241179.87,2.14
+C000422,M,40-50,High,High School,Married,CA,Blue-collar,249223.47,2.85
+C000423,F,60+,Med,Post-Graduate,Single,MI,Businessman,104590.57,3.46
+C000424,F,60+,High,Uneducated,Unknown,GA,Blue-collar,73882.38,3.17
+C000425,M,50-60,High,Graduate,Unknown,TX,Selfemployed,169966.22,1.88
+C000426,F,40-50,High,Unknown,Married,TX,Retirees,70594.49,3.87
+C000427,F,30-40,Low,Graduate,Single,NJ,Govt,73012.89,2.59
+C000428,M,40-50,High,Unknown,Married,GA,Retirees,103844.15,4.21
+C000429,F,40-50,High,Post-Graduate,Unknown,IL,White-collar,172431.91,2.43
+C000430,F,50-60,High,Unknown,Single,NY,Govt,96782.39,4.02
+C000431,M,40-50,Low,Uneducated,Unknown,NY,Businessman,195997.23,3.31
+C000432,F,40-50,Low,Doctorate,Unknown,PA,Govt,113144.56,3.87
+C000433,M,30-40,Low,Unknown,Unknown,CA,Govt,217922.98,3.02
+C000434,F,40-50,Med,High School,Unknown,NC,Businessman,61497.69,4.37
+C000435,M,50-60,High,Unknown,Unknown,TX,White-collar,149899.07,2.46
+C000436,F,60+,High,Post-Graduate,Unknown,NY,Govt,209596.98,4.34
+C000437,F,50-60,Med,Doctorate,Married,IL,White-collar,116296.36,3.82
+C000438,M,60+,Low,High School,Unknown,TX,Blue-collar,79519.18,1.39
+C000439,F,20-30,Med,Post-Graduate,Unknown,GA,White-collar,46625.7,2.04
+C000440,F,40-50,Med,Unknown,Unknown,IL,White-collar,160568.78,2.01
+C000441,F,60+,Med,Post-Graduate,Unknown,NJ,Retirees,117759.67,1.03
+C000442,M,30-40,Low,High School,Married,CA,Govt,157870.67,2.06
+C000443,F,40-50,High,High School,Single,NY,White-collar,197490.56,3.8
+C000444,M,40-50,High,Graduate,Unknown,PA,Blue-collar,116016.08,3.07
+C000445,M,40-50,Low,High School,Married,GA,Selfemployed,95125.93,1.09
+C000446,M,50-60,High,Uneducated,Unknown,MI,Govt,16308.57,2.13
+C000447,F,50-60,Med,Unknown,Single,FL,Retirees,203877.95,2.44
+C000448,F,30-40,Low,Post-Graduate,Single,CA,Retirees,17701.93,1.2
+C000449,F,50-60,Med,High School,Married,CA,Retirees,86745.22,2.49
+C000450,F,40-50,Low,Uneducated,Married,FL,Govt,161644.54,2.24
+C000451,M,40-50,High,High School,Single,IL,Retirees,91446.08,2.11
+C000452,F,40-50,High,Unknown,Married,GA,White-collar,223966.31,4.0
+C000453,F,60+,Med,Doctorate,Married,GA,White-collar,173401.12,2.79
+C000454,F,60+,High,High School,Single,NC,White-collar,120507.51,2.94
+C000455,M,30-40,Med,Doctorate,Married,NC,Businessman,94381.69,1.68
+C000456,M,50-60,Med,Uneducated,Single,MI,Blue-collar,171236.84,3.78
+C000457,F,40-50,Low,Graduate,Single,FL,Govt,34843.77,1.1
+C000458,M,50-60,Med,Graduate,Unknown,CA,Businessman,31427.79,4.16
+C000459,M,30-40,Med,Graduate,Single,FL,Retirees,238694.62,4.21
+C000460,F,30-40,Med,Unknown,Married,NJ,Blue-collar,183976.01,1.04
+C000461,M,50-60,Med,Doctorate,Unknown,IL,White-collar,72112.26,2.02
+C000462,F,40-50,Low,Doctorate,Single,GA,Selfemployed,180445.92,2.87
+C000463,F,40-50,Low,Uneducated,Single,PA,Selfemployed,219788.08,1.15
+C000464,F,30-40,Low,Unknown,Married,GA,Businessman,43757.45,2.84
+C000465,F,40-50,High,Graduate,Unknown,NJ,Govt,91215.35,2.3
+C000466,M,40-50,Low,Uneducated,Married,PA,White-collar,179442.77,3.19
+C000467,M,30-40,Med,Graduate,Married,NY,Blue-collar,164626.88,1.14
+C000468,M,60+,Med,Graduate,Married,IL,Selfemployed,69335.34,2.88
+C000469,F,40-50,High,Unknown,Single,NJ,Businessman,202986.26,3.38
+C000470,M,30-40,High,High School,Single,FL,White-collar,200328.65,2.5
+C000471,F,60+,Med,Graduate,Unknown,NC,Retirees,138668.74,3.56
+C000472,F,50-60,Med,High School,Unknown,NC,Govt,27306.87,1.52
+C000473,F,40-50,Low,Post-Graduate,Married,FL,Businessman,93133.52,2.3
+C000474,M,30-40,High,Doctorate,Unknown,NJ,Retirees,66326.22,2.29
+C000475,F,30-40,High,High School,Unknown,GA,White-collar,84629.37,3.07
+C000476,M,20-30,Med,Uneducated,Unknown,GA,Retirees,112115.14,2.03
+C000477,F,40-50,Low,Doctorate,Single,GA,Blue-collar,100117.47,1.41
+C000478,M,20-30,High,Graduate,Unknown,NY,Businessman,93909.23,4.51
+C000479,F,20-30,Med,High School,Married,PA,Businessman,79536.95,1.51
+C000480,F,20-30,Med,Doctorate,Married,FL,Selfemployed,129435.14,4.18
+C000481,F,50-60,High,Post-Graduate,Single,NY,Blue-collar,178500.55,1.04
+C000482,F,40-50,Low,Unknown,Married,PA,Govt,127980.02,2.0
+C000483,M,40-50,High,Unknown,Married,TX,Businessman,247379.77,2.02
+C000484,F,50-60,Low,High School,Unknown,NY,White-collar,167063.02,4.28
+C000485,F,50-60,Med,Unknown,Married,NJ,Blue-collar,243977.96,3.68
+C000486,M,50-60,High,Doctorate,Married,NC,White-collar,57520.88,4.99
+C000487,F,40-50,Med,Unknown,Unknown,PA,Retirees,209639.86,3.34
+C000488,M,40-50,Low,Graduate,Unknown,NY,Retirees,235228.65,4.95
+C000489,M,40-50,Low,Uneducated,Married,CA,Blue-collar,216934.41,1.85
+C000490,F,60+,High,Unknown,Single,IL,Selfemployed,161711.92,3.82
+C000491,M,40-50,Low,Graduate,Unknown,NJ,Govt,214371.49,2.83
+C000492,F,40-50,High,Graduate,Single,NJ,White-collar,102964.02,3.89
+C000493,F,50-60,High,High School,Unknown,GA,Retirees,65819.72,1.13
+C000494,F,50-60,Low,Uneducated,Single,TX,Blue-collar,78909.93,4.0
+C000495,F,50-60,Med,Doctorate,Unknown,IL,Govt,227914.1,1.98
+C000496,F,50-60,High,High School,Married,NY,White-collar,146044.63,4.44
+C000497,F,40-50,Med,Graduate,Married,PA,Selfemployed,175731.55,4.23
+C000498,F,40-50,Low,Doctorate,Single,IL,Blue-collar,148264.07,2.63
+C000499,F,50-60,Med,Unknown,Married,NC,Businessman,94756.48,2.73
+C000500,M,40-50,Med,Unknown,Married,CA,Businessman,98155.95,2.68
+C000501,M,30-40,High,High School,Single,CA,Retirees,205816.64,1.95
+C000502,F,20-30,High,Unknown,Married,IL,Govt,152102.47,4.27
+C000503,M,60+,Low,Post-Graduate,Married,NC,Selfemployed,39287.94,1.64
+C000504,F,30-40,High,High School,Married,TX,Selfemployed,192437.42,3.81
+C000505,F,30-40,Med,Graduate,Single,NC,Retirees,57127.5,1.6
+C000506,M,50-60,High,Graduate,Unknown,NJ,White-collar,165860.44,3.75
+C000507,M,20-30,Med,Unknown,Single,PA,Businessman,131164.09,2.55
+C000508,M,50-60,Low,Uneducated,Single,NY,Businessman,179667.8,3.0
+C000509,F,50-60,High,Unknown,Married,GA,Selfemployed,221789.09,3.08
+C000510,M,50-60,Med,Unknown,Married,FL,Businessman,35891.48,2.95
+C000511,F,40-50,Low,Doctorate,Married,GA,Blue-collar,19883.05,4.61
+C000512,F,40-50,Med,Graduate,Single,PA,Retirees,183191.77,2.09
+C000513,F,30-40,Med,Doctorate,Unknown,NC,White-collar,232901.16,2.15
+C000514,M,40-50,Med,Unknown,Unknown,CA,Selfemployed,199825.11,4.22
+C000515,M,40-50,High,Doctorate,Single,NC,Retirees,218250.74,1.6
+C000516,M,40-50,High,Doctorate,Unknown,IL,Businessman,61734.67,2.01
+C000517,F,50-60,Med,High School,Single,GA,Blue-collar,194704.58,1.09
+C000518,M,40-50,Med,Uneducated,Married,IL,Selfemployed,145636.56,1.08
+C000519,M,40-50,Med,High School,Married,NY,Blue-collar,28437.69,2.16
+C000520,M,60+,Med,Doctorate,Single,NY,Retirees,185993.23,4.68
+C000521,F,30-40,Low,Doctorate,Married,NJ,Retirees,102573.99,2.17
+C000522,M,60+,High,High School,Married,FL,Blue-collar,190506.74,1.22
+C000523,F,40-50,High,Uneducated,Single,CA,Selfemployed,141818.29,2.12
+C000524,M,20-30,Med,Graduate,Single,MI,White-collar,205374.59,3.65
+C000525,M,40-50,Med,Uneducated,Single,NY,Blue-collar,77996.1,3.63
+C000526,M,40-50,Med,Uneducated,Unknown,NC,Businessman,180745.3,4.71
+C000527,M,40-50,Med,High School,Unknown,FL,Selfemployed,202237.06,1.67
+C000528,M,50-60,Med,Doctorate,Married,NJ,Selfemployed,89966.32,3.51
+C000529,M,40-50,High,High School,Single,MI,Blue-collar,83311.92,2.44
+C000530,M,40-50,Med,High School,Single,NC,Businessman,83334.12,1.7
+C000531,F,50-60,Med,Graduate,Married,CA,Businessman,213340.87,1.71
+C000532,M,50-60,High,Uneducated,Single,FL,White-collar,213742.95,3.94
+C000533,F,60+,Med,Graduate,Married,TX,Blue-collar,227358.88,1.02
+C000534,M,40-50,Med,Unknown,Married,NC,Govt,135704.08,4.46
+C000535,M,30-40,High,Unknown,Unknown,GA,White-collar,165286.43,1.35
+C000536,F,40-50,Low,Graduate,Married,PA,Selfemployed,66787.65,1.95
+C000537,F,50-60,Low,Unknown,Married,GA,White-collar,39779.4,2.12
+C000538,M,50-60,Med,Unknown,Single,CA,Businessman,82129.36,2.01
+C000539,M,40-50,High,Uneducated,Single,CA,Govt,98436.99,1.34
+C000540,M,40-50,High,Doctorate,Single,IL,Blue-collar,162972.58,3.67
+C000541,F,40-50,Low,High School,Single,NC,Govt,173160.28,2.14
+C000542,M,50-60,High,Doctorate,Unknown,IL,Selfemployed,214235.47,2.56
+C000543,F,40-50,Med,High School,Single,NC,Blue-collar,177894.09,3.45
+C000544,M,50-60,Med,High School,Married,NJ,Retirees,129732.92,3.52
+C000545,F,50-60,Med,Uneducated,Single,IL,Businessman,196881.93,4.6
+C000546,F,40-50,High,Graduate,Married,NJ,White-collar,164169.76,4.14
+C000547,M,30-40,Low,Unknown,Single,PA,Selfemployed,211566.6,3.28
+C000548,M,40-50,High,Post-Graduate,Married,IL,White-collar,173879.82,4.62
+C000549,M,30-40,High,Graduate,Married,NC,Selfemployed,239779.37,4.49
+C000550,M,30-40,Med,High School,Single,NY,Retirees,40087.88,4.31
+C000551,F,50-60,Low,Uneducated,Unknown,GA,Retirees,62343.58,2.3
+C000552,F,60+,Low,Graduate,Married,MI,Retirees,142074.49,3.81
+C000553,M,40-50,High,Post-Graduate,Married,GA,Govt,185516.34,1.02
+C000554,F,50-60,Med,Unknown,Unknown,TX,White-collar,81229.16,4.58
+C000555,F,40-50,Low,Unknown,Single,NJ,Retirees,133496.37,2.65
+C000556,M,60+,Med,Unknown,Single,NY,White-collar,176181.15,1.7
+C000557,F,50-60,High,Unknown,Single,NJ,Retirees,64050.42,4.12
+C000558,M,30-40,High,Unknown,Single,GA,Retirees,215170.62,3.13
+C000559,M,30-40,Med,Graduate,Unknown,NC,Businessman,92888.51,1.03
+C000560,F,40-50,High,Graduate,Married,NJ,Retirees,140532.98,4.29
+C000561,F,20-30,Med,Unknown,Unknown,CA,White-collar,91180.08,2.09
+C000562,F,30-40,High,Doctorate,Unknown,NY,Govt,51112.27,3.99
+C000563,M,20-30,Low,Uneducated,Married,NJ,Govt,74118.66,3.57
+C000564,F,60+,Med,Unknown,Married,CA,White-collar,99587.46,2.58
+C000565,F,60+,High,High School,Single,NY,Selfemployed,103606.03,4.75
+C000566,F,30-40,High,Graduate,Unknown,PA,White-collar,146849.76,3.17
+C000567,M,40-50,Med,Post-Graduate,Unknown,IL,Businessman,163711.13,4.97
+C000568,M,20-30,Med,Doctorate,Unknown,IL,Govt,160844.67,1.51
+C000569,F,50-60,Low,Graduate,Unknown,NJ,Govt,227178.5,4.81
+C000570,M,50-60,Med,Graduate,Unknown,NC,Selfemployed,200067.19,2.53
+C000571,F,30-40,Low,Unknown,Married,NJ,Blue-collar,148464.18,3.91
+C000572,F,30-40,High,Uneducated,Single,FL,White-collar,54124.92,1.32
+C000573,F,40-50,High,High School,Single,GA,Businessman,124739.84,4.31
+C000574,F,50-60,Med,Post-Graduate,Unknown,NJ,Selfemployed,25097.03,3.44
+C000575,F,50-60,Med,Post-Graduate,Single,FL,Blue-collar,146713.94,3.53
+C000576,F,60+,Low,High School,Married,TX,Govt,39716.02,3.98
+C000577,F,60+,High,Unknown,Single,IL,Govt,28446.75,3.31
+C000578,F,50-60,High,High School,Single,PA,Govt,139455.59,1.04
+C000579,F,20-30,Low,Unknown,Single,TX,Blue-collar,204430.42,3.2
+C000580,F,30-40,High,Unknown,Single,TX,Businessman,215489.71,5.0
+C000581,M,50-60,Low,Post-Graduate,Single,NC,Retirees,40921.66,4.7
+C000582,M,40-50,High,Doctorate,Single,NJ,Govt,54343.05,4.32
+C000583,F,50-60,High,Post-Graduate,Unknown,MI,Retirees,239508.41,3.51
+C000584,M,40-50,Low,Graduate,Unknown,FL,Govt,185705.83,1.81
+C000585,F,50-60,Med,High School,Unknown,NJ,Businessman,226445.38,2.4
+C000586,M,40-50,Low,Graduate,Married,TX,Govt,179051.98,4.53
+C000587,F,60+,Low,Doctorate,Married,PA,Retirees,190213.88,4.6
+C000588,M,30-40,Med,Uneducated,Married,NJ,White-collar,31552.73,1.69
+C000589,F,40-50,Low,Graduate,Single,CA,Businessman,220141.89,4.84
+C000590,M,50-60,Med,Post-Graduate,Unknown,PA,Selfemployed,115105.39,4.51
+C000591,F,60+,High,Post-Graduate,Married,MI,Retirees,224616.5,2.48
+C000592,F,40-50,Med,Uneducated,Single,NY,Selfemployed,119326.69,4.0
+C000593,F,50-60,Low,Doctorate,Unknown,IL,Retirees,187042.2,1.9
+C000594,F,40-50,High,Graduate,Unknown,MI,White-collar,166062.34,4.55
+C000595,F,40-50,Med,Uneducated,Unknown,FL,Businessman,94484.21,2.69
+C000596,F,50-60,Low,Unknown,Unknown,IL,Govt,89839.35,3.67
+C000597,M,40-50,High,Uneducated,Unknown,NC,Blue-collar,45190.62,2.79
+C000598,M,30-40,Low,High School,Unknown,NY,White-collar,110719.83,1.09
+C000599,M,20-30,High,Unknown,Unknown,TX,Businessman,32331.82,2.39
+C000600,M,30-40,Med,Graduate,Unknown,PA,Businessman,34191.64,4.11
+C000601,M,50-60,High,Doctorate,Married,IL,Blue-collar,197113.28,2.34
+C000602,F,50-60,Med,Unknown,Single,NC,Blue-collar,19354.04,3.14
+C000603,M,50-60,High,Graduate,Married,CA,Blue-collar,203693.86,1.53
+C000604,F,30-40,Med,Doctorate,Married,MI,Govt,124101.14,3.83
+C000605,M,40-50,Low,Uneducated,Single,IL,Businessman,217130.62,4.34
+C000606,F,40-50,High,Graduate,Unknown,PA,Blue-collar,199917.13,1.62
+C000607,M,30-40,Low,Doctorate,Single,CA,White-collar,191027.66,2.91
+C000608,M,60+,High,Unknown,Unknown,CA,Businessman,84065.8,2.86
+C000609,F,30-40,High,Post-Graduate,Married,NJ,Govt,199822.95,3.03
+C000610,F,20-30,Low,Uneducated,Single,NY,Govt,179181.34,2.78
+C000611,F,20-30,Low,High School,Unknown,NC,White-collar,46916.51,2.34
+C000612,M,40-50,High,Doctorate,Unknown,CA,Businessman,180485.13,1.76
+C000613,M,30-40,High,Unknown,Unknown,NJ,White-collar,33468.15,3.15
+C000614,M,50-60,High,High School,Married,CA,Selfemployed,48189.77,4.47
+C000615,M,50-60,Med,Post-Graduate,Married,FL,Blue-collar,184163.76,2.39
+C000616,M,30-40,High,Graduate,Married,NJ,Blue-collar,177097.81,3.33
+C000617,F,40-50,Med,Unknown,Married,GA,Govt,76402.27,4.82
+C000618,F,40-50,Low,Uneducated,Unknown,PA,Selfemployed,28052.05,4.73
+C000619,F,40-50,Low,Post-Graduate,Married,GA,Govt,157676.06,1.35
+C000620,F,40-50,Med,Graduate,Married,IL,Blue-collar,97495.77,1.2
+C000621,M,40-50,Med,Doctorate,Single,FL,Businessman,212482.33,3.92
+C000622,F,50-60,Low,Doctorate,Single,NY,Blue-collar,216681.15,3.59
+C000623,M,40-50,High,High School,Single,CA,Blue-collar,120250.91,4.47
+C000624,F,50-60,High,Graduate,Single,IL,Selfemployed,110991.45,2.41
+C000625,F,50-60,Low,Doctorate,Single,FL,Retirees,149587.33,3.11
+C000626,M,30-40,High,Post-Graduate,Married,CA,Retirees,129643.88,2.46
+C000627,F,40-50,Low,Post-Graduate,Married,NC,Businessman,123065.74,1.09
+C000628,M,30-40,Low,Graduate,Single,NC,Govt,141318.39,1.06
+C000629,F,40-50,Low,Post-Graduate,Single,NC,Retirees,79863.53,3.66
+C000630,M,40-50,Low,Unknown,Single,FL,Govt,194696.38,4.73
+C000631,F,30-40,Low,Graduate,Single,NY,Selfemployed,191608.24,1.08
+C000632,F,30-40,Med,Graduate,Unknown,PA,White-collar,128636.75,3.28
+C000633,F,40-50,Low,Graduate,Unknown,NY,Govt,56927.14,4.14
+C000634,M,50-60,Low,Graduate,Single,MI,Blue-collar,211028.66,2.2
+C000635,M,40-50,High,High School,Married,IL,White-collar,148286.25,3.48
+C000636,F,40-50,Med,Graduate,Unknown,NC,Businessman,36106.73,3.69
+C000637,F,50-60,Low,Doctorate,Married,CA,Govt,36648.39,3.1
+C000638,F,40-50,Low,High School,Married,CA,Govt,180263.69,3.47
+C000639,F,30-40,Med,Graduate,Married,GA,White-collar,157295.98,2.03
+C000640,M,40-50,High,High School,Married,FL,Retirees,208725.88,4.0
+C000641,M,40-50,Low,High School,Single,NY,Businessman,70558.17,1.23
+C000642,F,60+,Low,Unknown,Single,NC,White-collar,211791.72,3.33
+C000643,F,50-60,Low,Uneducated,Unknown,MI,Selfemployed,44698.08,4.91
+C000644,M,40-50,Med,Uneducated,Unknown,GA,Retirees,32353.93,3.45
+C000645,M,50-60,High,Unknown,Unknown,GA,White-collar,202133.41,3.23
+C000646,M,30-40,Low,Graduate,Married,NY,Retirees,50691.95,4.24
+C000647,F,30-40,Med,Graduate,Unknown,NC,Govt,201060.94,1.72
+C000648,M,40-50,High,High School,Single,FL,White-collar,155445.76,3.45
+C000649,F,60+,Med,High School,Married,NJ,Retirees,65440.29,2.09
+C000650,M,30-40,Low,Doctorate,Single,NJ,Businessman,228892.7,2.07
+C000651,M,50-60,Med,Doctorate,Married,NY,Selfemployed,73433.62,4.35
+C000652,M,40-50,High,Graduate,Unknown,CA,Selfemployed,75811.58,3.39
+C000653,M,50-60,Low,Graduate,Married,IL,Retirees,182513.1,4.1
+C000654,F,30-40,Med,High School,Single,GA,Businessman,101831.69,2.47
+C000655,F,20-30,High,Graduate,Unknown,NC,Govt,102083.79,1.41
+C000656,M,30-40,Med,Doctorate,Married,IL,White-collar,143328.79,3.57
+C000657,M,50-60,High,High School,Single,PA,White-collar,51093.05,2.57
+C000658,F,30-40,Low,Graduate,Married,MI,Businessman,113747.79,3.62
+C000659,M,30-40,Med,Graduate,Married,NC,Retirees,236458.33,1.09
+C000660,M,60+,Med,Post-Graduate,Married,CA,Govt,217037.4,4.66
+C000661,M,20-30,High,Graduate,Unknown,IL,Businessman,39943.35,2.33
+C000662,M,40-50,Low,High School,Unknown,PA,Selfemployed,37802.92,1.38
+C000663,F,40-50,Low,Unknown,Unknown,FL,White-collar,85423.48,1.97
+C000664,M,40-50,Low,Post-Graduate,Single,NC,Blue-collar,30560.74,4.59
+C000665,F,40-50,High,Graduate,Married,NY,Retirees,101085.27,3.55
+C000666,F,30-40,Med,Unknown,Married,NJ,Govt,61023.06,4.88
+C000667,M,40-50,Low,High School,Married,CA,Blue-collar,53911.57,3.08
+C000668,F,50-60,Low,Post-Graduate,Unknown,TX,White-collar,192806.5,1.33
+C000669,F,40-50,Med,Doctorate,Married,PA,Govt,216361.9,3.67
+C000670,F,20-30,High,Doctorate,Single,NY,Retirees,111550.05,3.15
+C000671,M,50-60,Med,Unknown,Married,NC,White-collar,73078.5,1.71
+C000672,F,40-50,Low,High School,Married,GA,Blue-collar,61829.27,2.72
+C000673,F,50-60,Med,Uneducated,Unknown,TX,Businessman,171841.07,3.1
+C000674,F,40-50,Low,Graduate,Unknown,MI,White-collar,60167.26,2.14
+C000675,F,40-50,High,Graduate,Married,MI,Govt,238769.45,3.67
+C000676,F,30-40,High,Unknown,Unknown,CA,Businessman,149697.95,2.76
+C000677,M,30-40,High,Uneducated,Married,GA,Businessman,18060.66,1.39
+C000678,F,60+,Med,Graduate,Single,NC,Selfemployed,88796.98,1.12
+C000679,F,30-40,Med,Graduate,Unknown,NY,Govt,44472.0,3.07
+C000680,M,20-30,High,Post-Graduate,Unknown,CA,White-collar,159439.11,3.46
+C000681,M,40-50,Med,Post-Graduate,Married,FL,Businessman,131209.02,3.01
+C000682,F,30-40,High,Uneducated,Unknown,IL,Retirees,164698.79,4.25
+C000683,F,20-30,Low,Graduate,Married,FL,Businessman,240997.83,4.01
+C000684,M,50-60,Low,Uneducated,Married,FL,Retirees,126102.11,4.41
+C000685,M,40-50,Low,Post-Graduate,Unknown,TX,Blue-collar,107147.08,2.61
+C000686,M,50-60,Med,Uneducated,Married,CA,Blue-collar,38119.82,2.5
+C000687,F,30-40,Low,Unknown,Unknown,CA,Blue-collar,236245.65,1.15
+C000688,F,40-50,Low,Graduate,Unknown,NC,White-collar,42388.49,1.97
+C000689,F,40-50,Med,Graduate,Single,IL,Retirees,230755.99,4.13
+C000690,F,30-40,Med,Post-Graduate,Unknown,PA,Retirees,112131.34,1.87
+C000691,M,30-40,Low,High School,Unknown,NJ,Govt,36074.44,3.54
+C000692,M,40-50,Low,Uneducated,Unknown,GA,Blue-collar,139176.9,1.81
+C000693,F,40-50,Med,Unknown,Unknown,PA,White-collar,101592.54,2.52
+C000694,M,40-50,Med,Graduate,Married,PA,Retirees,227191.7,4.56
+C000695,M,50-60,High,High School,Married,IL,Blue-collar,203711.18,4.19
+C000696,F,50-60,High,Doctorate,Married,FL,Govt,63161.99,4.35
+C000697,F,30-40,Med,Graduate,Married,TX,Selfemployed,183201.0,3.72
+C000698,F,40-50,Med,Graduate,Single,PA,Blue-collar,15995.05,4.09
+C000699,M,40-50,Low,Doctorate,Single,TX,Blue-collar,105372.1,4.76
+C000700,F,20-30,Low,Unknown,Married,CA,Selfemployed,154615.66,4.99
+C000701,F,30-40,Low,High School,Married,TX,White-collar,245225.45,2.34
+C000702,M,20-30,Med,High School,Single,NY,Selfemployed,110944.13,4.07
+C000703,M,30-40,Low,Graduate,Unknown,GA,White-collar,46947.35,1.69
+C000704,F,50-60,Med,Doctorate,Married,IL,Blue-collar,33361.66,2.14
+C000705,F,30-40,High,Unknown,Unknown,MI,Businessman,223784.05,3.5
+C000706,F,30-40,Med,Post-Graduate,Single,MI,Selfemployed,238738.05,1.52
+C000707,M,60+,Med,Unknown,Married,TX,Retirees,245534.38,3.0
+C000708,F,20-30,Med,Doctorate,Single,CA,Retirees,211377.19,4.12
+C000709,F,50-60,High,Graduate,Unknown,NJ,Govt,151884.62,3.77
+C000710,F,30-40,High,Uneducated,Unknown,NJ,Selfemployed,58548.47,2.63
+C000711,M,50-60,High,Graduate,Married,IL,Retirees,163054.77,3.3
+C000712,F,50-60,Med,Unknown,Unknown,FL,Retirees,35258.87,1.82
+C000713,F,50-60,Low,Graduate,Unknown,MI,Blue-collar,144153.83,3.37
+C000714,M,40-50,Low,Post-Graduate,Married,MI,Blue-collar,66296.23,4.71
+C000715,F,40-50,High,Graduate,Unknown,FL,Govt,112383.97,3.93
+C000716,M,30-40,Med,High School,Unknown,FL,Blue-collar,123139.28,1.85
+C000717,M,30-40,Low,Uneducated,Married,CA,White-collar,195843.23,1.23
+C000718,F,60+,Med,Unknown,Married,MI,Retirees,80371.9,4.22
+C000719,M,30-40,Low,Graduate,Single,GA,Govt,48285.42,3.22
+C000720,M,40-50,Med,Post-Graduate,Single,FL,Govt,108686.23,4.6
+C000721,M,40-50,High,Uneducated,Married,MI,White-collar,231186.16,3.53
+C000722,F,40-50,High,Post-Graduate,Single,PA,Retirees,217104.51,3.68
+C000723,M,30-40,Low,Doctorate,Single,TX,Retirees,164721.92,4.16
+C000724,M,40-50,High,Unknown,Single,PA,Businessman,148626.95,4.37
+C000725,F,50-60,Med,High School,Single,NJ,Businessman,106688.35,3.44
+C000726,M,50-60,High,Doctorate,Unknown,IL,Govt,38663.45,2.85
+C000727,F,30-40,High,Post-Graduate,Unknown,PA,White-collar,127950.31,2.32
+C000728,F,60+,High,Unknown,Single,IL,Retirees,195273.77,4.07
+C000729,M,20-30,High,Post-Graduate,Unknown,CA,Retirees,37180.99,2.65
+C000730,F,60+,Med,Graduate,Unknown,NC,Retirees,97295.46,4.98
+C000731,F,30-40,Low,Unknown,Single,MI,Selfemployed,107671.35,2.46
+C000732,M,20-30,Med,High School,Single,PA,Retirees,209841.97,2.83
+C000733,M,30-40,Low,Post-Graduate,Single,NC,Retirees,233338.66,4.1
+C000734,F,50-60,High,High School,Single,CA,Businessman,196014.8,1.43
+C000735,F,50-60,Low,Post-Graduate,Married,FL,Blue-collar,92873.26,2.2
+C000736,F,40-50,High,High School,Married,NY,Selfemployed,222056.09,2.03
+C000737,F,50-60,Med,Doctorate,Single,CA,Retirees,31613.07,2.99
+C000738,M,30-40,Low,Graduate,Married,IL,Businessman,80999.27,2.85
+C000739,F,30-40,Med,Post-Graduate,Married,NJ,Selfemployed,82759.14,2.23
+C000740,M,40-50,Low,Uneducated,Single,IL,Govt,223141.41,4.76
+C000741,F,20-30,Low,Graduate,Single,IL,Businessman,74709.98,4.73
+C000742,F,40-50,Med,Graduate,Unknown,NJ,Govt,88163.15,4.13
+C000743,M,30-40,High,Unknown,Single,NC,Retirees,218858.61,4.66
+C000744,F,60+,High,Post-Graduate,Single,NY,Selfemployed,209686.76,2.28
+C000745,F,30-40,Low,Unknown,Unknown,GA,Retirees,223201.74,2.23
+C000746,F,30-40,Low,Uneducated,Unknown,PA,Retirees,178378.86,4.0
+C000747,M,20-30,Med,Post-Graduate,Single,PA,Selfemployed,80765.17,3.88
+C000748,M,40-50,High,Graduate,Married,GA,Blue-collar,18829.23,4.13
+C000749,F,30-40,Med,Uneducated,Single,FL,Businessman,170976.78,1.51
+C000750,F,50-60,Low,Uneducated,Married,MI,Selfemployed,21305.72,4.89
+C000751,F,30-40,Low,Post-Graduate,Married,IL,Retirees,170647.48,1.73
+C000752,F,50-60,High,Graduate,Single,FL,Govt,188963.63,3.95
+C000753,M,20-30,Med,Post-Graduate,Married,PA,Selfemployed,166893.09,3.48
+C000754,F,20-30,Low,Post-Graduate,Unknown,FL,White-collar,82111.88,2.27
+C000755,F,50-60,Med,Graduate,Unknown,TX,Blue-collar,248981.67,4.68
+C000756,F,20-30,High,Graduate,Unknown,NC,Blue-collar,83175.97,1.59
+C000757,F,50-60,High,Unknown,Single,PA,Govt,31610.09,3.92
+C000758,M,50-60,High,Doctorate,Married,PA,Selfemployed,40221.19,2.57
+C000759,M,50-60,Low,High School,Unknown,CA,Selfemployed,242161.42,3.23
+C000760,F,30-40,Low,Uneducated,Married,GA,Govt,74444.9,4.55
+C000761,M,40-50,Low,Doctorate,Unknown,CA,Retirees,245589.38,1.2
+C000762,M,30-40,Low,Graduate,Unknown,TX,White-collar,21204.32,4.23
+C000763,M,30-40,High,Unknown,Married,IL,Govt,186625.02,4.4
+C000764,M,40-50,Low,Unknown,Single,GA,Businessman,147558.43,4.16
+C000765,M,40-50,Med,Post-Graduate,Unknown,NJ,Retirees,233975.71,2.55
+C000766,F,40-50,High,Graduate,Married,NJ,Selfemployed,155921.69,2.34
+C000767,M,60+,High,Graduate,Married,NY,Businessman,46243.76,1.28
+C000768,M,40-50,High,Unknown,Single,PA,Businessman,158800.31,4.74
+C000769,M,40-50,High,Graduate,Single,TX,Selfemployed,107758.32,1.42
+C000770,M,50-60,High,High School,Unknown,MI,Businessman,160831.34,4.18
+C000771,F,30-40,High,Unknown,Married,PA,Blue-collar,72967.07,1.7
+C000772,F,50-60,Low,Unknown,Married,PA,Blue-collar,26878.12,1.25
+C000773,F,40-50,Med,Unknown,Single,NY,Businessman,38552.57,4.86
+C000774,M,30-40,Med,Graduate,Unknown,NY,Selfemployed,46490.32,4.18
+C000775,M,20-30,High,Graduate,Unknown,TX,Businessman,229012.39,3.4
+C000776,M,40-50,Low,High School,Single,MI,White-collar,165197.84,1.74
+C000777,M,60+,High,Graduate,Single,IL,Govt,239250.2,4.22
+C000778,F,60+,High,High School,Married,NY,White-collar,232007.23,2.27
+C000779,M,40-50,Low,Uneducated,Unknown,NY,Businessman,146453.66,2.91
+C000780,F,60+,Low,Post-Graduate,Married,IL,Retirees,179930.45,3.88
+C000781,F,30-40,High,High School,Married,GA,Businessman,23473.84,1.03
+C000782,F,40-50,Low,Post-Graduate,Unknown,FL,Selfemployed,71624.65,4.97
+C000783,F,40-50,Low,Uneducated,Unknown,NJ,Businessman,146426.33,1.03
+C000784,F,40-50,High,Post-Graduate,Single,NY,Retirees,171261.33,2.08
+C000785,M,40-50,Med,High School,Married,FL,Govt,64113.79,4.27
+C000786,M,40-50,High,Unknown,Single,FL,Blue-collar,168046.48,1.75
+C000787,M,40-50,High,Post-Graduate,Married,NJ,Blue-collar,164435.01,4.82
+C000788,F,50-60,High,Unknown,Married,NJ,Businessman,150242.1,4.81
+C000789,F,40-50,Med,Unknown,Married,NC,Selfemployed,58783.05,2.67
+C000790,M,50-60,Low,Unknown,Unknown,MI,Businessman,80484.39,3.79
+C000791,M,40-50,Med,Unknown,Single,CA,White-collar,110777.23,2.82
+C000792,F,60+,Low,Doctorate,Single,IL,White-collar,210214.03,4.27
+C000793,F,50-60,Med,Post-Graduate,Single,IL,Blue-collar,101430.19,2.9
+C000794,M,40-50,Med,Post-Graduate,Married,NY,Govt,187953.07,4.28
+C000795,F,20-30,Low,Post-Graduate,Single,CA,Retirees,130730.83,3.47
+C000796,F,40-50,High,Unknown,Unknown,NJ,Blue-collar,79874.96,1.55
+C000797,M,20-30,Med,Unknown,Married,IL,Retirees,48166.16,1.72
+C000798,F,50-60,Low,High School,Unknown,PA,Selfemployed,231418.96,3.45
+C000799,F,30-40,High,High School,Married,NC,Govt,140113.49,4.09
+C000800,F,40-50,High,Uneducated,Unknown,IL,Selfemployed,130782.26,4.97
+C000801,F,20-30,Med,High School,Married,NY,White-collar,102796.9,4.22
+C000802,F,40-50,Low,Doctorate,Married,GA,Retirees,129387.4,2.0
+C000803,F,20-30,High,Doctorate,Single,FL,Retirees,100290.33,1.99
+C000804,M,40-50,Low,Post-Graduate,Single,TX,Retirees,93755.54,1.66
+C000805,F,20-30,High,Unknown,Married,IL,Selfemployed,105362.4,3.68
+C000806,M,30-40,Med,Graduate,Unknown,IL,Govt,64066.94,4.25
+C000807,M,40-50,Med,Doctorate,Married,PA,Selfemployed,244241.76,2.18
+C000808,M,40-50,Med,High School,Married,FL,Selfemployed,25975.37,1.25
+C000809,M,40-50,High,Post-Graduate,Unknown,PA,White-collar,243229.63,2.45
+C000810,M,30-40,High,Post-Graduate,Single,GA,White-collar,74751.79,3.04
+C000811,F,30-40,Low,Post-Graduate,Single,FL,Retirees,86456.12,4.7
+C000812,M,40-50,High,Doctorate,Married,IL,Govt,56127.6,3.05
+C000813,M,40-50,Low,Uneducated,Married,PA,White-collar,181442.8,4.28
+C000814,F,40-50,Low,Unknown,Single,NJ,Retirees,94598.69,1.49
+C000815,F,60+,Low,Doctorate,Single,IL,White-collar,117480.07,1.87
+C000816,M,40-50,Low,Doctorate,Married,IL,Blue-collar,25536.88,2.86
+C000817,F,40-50,Med,Graduate,Unknown,NY,Businessman,82634.08,1.21
+C000818,M,40-50,High,Uneducated,Unknown,FL,Blue-collar,128837.59,3.14
+C000819,M,50-60,Low,Unknown,Single,TX,Selfemployed,192840.24,3.68
+C000820,M,50-60,Low,High School,Single,GA,Selfemployed,237948.47,3.18
+C000821,F,50-60,Low,Graduate,Married,TX,Businessman,115724.55,3.49
+C000822,F,50-60,High,High School,Single,TX,Selfemployed,127852.95,1.4
+C000823,M,30-40,Low,Post-Graduate,Single,NY,Retirees,198442.77,1.99
+C000824,M,60+,High,Graduate,Single,NC,Businessman,197915.44,1.93
+C000825,F,50-60,Low,Post-Graduate,Single,FL,Govt,49838.51,1.21
+C000826,M,50-60,Med,Doctorate,Unknown,TX,Selfemployed,120116.3,3.21
+C000827,F,50-60,Med,Post-Graduate,Married,NY,Businessman,59720.88,2.66
+C000828,M,40-50,Med,Uneducated,Unknown,FL,Blue-collar,53784.27,3.21
+C000829,F,50-60,Low,Post-Graduate,Unknown,CA,Selfemployed,166330.76,2.64
+C000830,M,40-50,High,Graduate,Single,NJ,Blue-collar,85080.88,1.61
+C000831,F,50-60,Med,Doctorate,Single,IL,Retirees,182629.07,2.67
+C000832,M,40-50,High,Graduate,Unknown,GA,Retirees,61715.31,2.66
+C000833,F,30-40,Med,High School,Married,GA,White-collar,119490.44,3.09
+C000834,M,40-50,Low,High School,Married,IL,Govt,147249.35,2.89
+C000835,M,30-40,Low,Uneducated,Single,FL,Blue-collar,227500.29,3.06
+C000836,M,30-40,Low,High School,Single,NY,Selfemployed,168637.5,1.01
+C000837,M,30-40,High,Doctorate,Single,MI,Blue-collar,36638.97,4.2
+C000838,M,40-50,High,Uneducated,Unknown,GA,Businessman,82781.75,4.54
+C000839,F,30-40,Low,Uneducated,Single,NY,Retirees,138557.32,3.87
+C000840,M,20-30,Low,Graduate,Married,NJ,Blue-collar,126822.37,2.26
+C000841,F,40-50,High,Unknown,Unknown,FL,White-collar,226660.18,4.24
+C000842,F,40-50,Med,Doctorate,Single,FL,Govt,207704.48,2.97
+C000843,F,50-60,Low,Post-Graduate,Unknown,TX,Businessman,158781.79,2.08
+C000844,F,30-40,Low,Unknown,Married,TX,Businessman,42549.7,2.12
+C000845,M,40-50,High,Uneducated,Single,IL,Blue-collar,104338.17,3.16
+C000846,F,40-50,Med,Unknown,Married,IL,White-collar,134000.59,1.77
+C000847,F,60+,Low,Graduate,Unknown,TX,Blue-collar,206132.76,2.34
+C000848,F,50-60,Low,Graduate,Married,CA,Businessman,208332.99,3.02
+C000849,F,60+,High,High School,Married,NJ,Blue-collar,160749.75,2.53
+C000850,F,40-50,High,Graduate,Single,FL,Businessman,124445.51,3.7
+C000851,F,30-40,High,Post-Graduate,Single,IL,Blue-collar,185022.39,4.43
+C000852,M,60+,Low,Graduate,Unknown,NJ,Govt,125332.07,2.04
+C000853,F,50-60,Med,Graduate,Single,MI,Retirees,105847.77,3.83
+C000854,F,40-50,Low,High School,Married,IL,White-collar,155324.03,4.14
+C000855,F,40-50,High,Uneducated,Single,NJ,White-collar,28264.78,2.97
+C000856,F,60+,Med,Unknown,Unknown,PA,Blue-collar,41306.29,4.13
+C000857,M,50-60,High,Uneducated,Single,FL,Govt,229951.94,2.74
+C000858,F,60+,Low,Post-Graduate,Married,NC,Govt,35592.73,1.55
+C000859,F,30-40,Med,Uneducated,Unknown,CA,Businessman,182151.18,2.48
+C000860,M,50-60,High,High School,Single,GA,Retirees,48938.71,1.69
+C000861,M,20-30,Low,Unknown,Single,PA,Blue-collar,52348.15,4.05
+C000862,M,40-50,Med,Unknown,Single,NC,Retirees,30372.73,2.96
+C000863,F,20-30,Med,Post-Graduate,Unknown,NY,Selfemployed,214828.99,4.38
+C000864,M,30-40,High,High School,Married,GA,Govt,106898.35,2.79
+C000865,F,60+,High,Uneducated,Married,IL,Businessman,111662.05,3.04
+C000866,F,40-50,Low,High School,Unknown,TX,Blue-collar,58222.26,2.75
+C000867,F,60+,Med,High School,Unknown,TX,Govt,86879.19,3.01
+C000868,M,30-40,High,Unknown,Unknown,PA,Businessman,244477.84,4.21
+C000869,M,30-40,Low,Unknown,Single,FL,Retirees,229767.3,4.98
+C000870,M,40-50,High,Graduate,Unknown,NC,White-collar,144588.19,4.08
+C000871,F,40-50,Med,Unknown,Single,NC,White-collar,149680.39,2.25
+C000872,M,50-60,Low,High School,Single,PA,Govt,180102.03,3.59
+C000873,M,30-40,Low,Post-Graduate,Unknown,CA,Retirees,163324.4,1.54
+C000874,F,30-40,Low,Unknown,Unknown,NC,Govt,100095.83,4.09
+C000875,M,30-40,Med,Post-Graduate,Married,FL,Retirees,194195.45,2.23
+C000876,M,50-60,Med,Graduate,Unknown,CA,Blue-collar,153138.32,1.91
+C000877,F,20-30,Low,High School,Single,IL,White-collar,233905.09,3.95
+C000878,M,50-60,Med,Post-Graduate,Unknown,NJ,Selfemployed,56813.26,1.83
+C000879,F,50-60,Low,Doctorate,Married,NC,Businessman,83975.0,4.68
+C000880,M,40-50,Low,Unknown,Married,NY,Blue-collar,96216.71,3.35
+C000881,M,40-50,Med,Unknown,Married,NY,Govt,210294.39,2.95
+C000882,M,20-30,High,Uneducated,Married,FL,Retirees,120571.21,1.51
+C000883,M,40-50,Low,Graduate,Married,FL,White-collar,80500.61,3.89
+C000884,F,40-50,Med,Doctorate,Single,NC,Retirees,76389.47,4.05
+C000885,M,40-50,Med,Doctorate,Married,GA,Selfemployed,183643.91,1.99
+C000886,F,30-40,High,Graduate,Unknown,GA,Blue-collar,41048.03,4.44
+C000887,F,50-60,High,Post-Graduate,Unknown,TX,Retirees,49715.21,2.51
+C000888,F,40-50,Low,High School,Unknown,NY,Govt,208651.9,1.32
+C000889,M,40-50,High,Graduate,Married,FL,Selfemployed,222620.81,3.9
+C000890,F,40-50,Med,Unknown,Single,PA,Selfemployed,183736.87,2.88
+C000891,M,30-40,Low,Post-Graduate,Married,NJ,Blue-collar,166458.91,2.57
+C000892,M,20-30,High,Graduate,Married,FL,Businessman,208122.88,2.87
+C000893,M,40-50,High,Unknown,Unknown,NY,Retirees,206097.89,2.95
+C000894,F,40-50,High,Doctorate,Married,PA,Retirees,67195.03,3.16
+C000895,F,40-50,Med,High School,Married,TX,Blue-collar,223117.17,2.53
+C000896,F,30-40,High,Post-Graduate,Unknown,IL,Retirees,16016.52,2.67
+C000897,M,40-50,High,Graduate,Single,NJ,Businessman,101499.99,1.67
+C000898,M,40-50,Med,Graduate,Unknown,FL,White-collar,30235.93,4.43
+C000899,F,30-40,Low,Graduate,Married,FL,Retirees,33428.63,2.91
+C000900,F,40-50,Low,Uneducated,Married,GA,Blue-collar,162033.26,3.87
+C000901,F,40-50,Low,Uneducated,Married,CA,Selfemployed,151377.53,2.3
+C000902,F,20-30,Med,Unknown,Unknown,NY,Govt,23836.47,2.07
+C000903,F,50-60,Low,High School,Single,TX,Businessman,229751.43,1.18
+C000904,F,30-40,Low,Post-Graduate,Married,GA,Govt,169965.38,2.44
+C000905,F,20-30,Med,Unknown,Single,GA,Retirees,199316.32,1.72
+C000906,M,40-50,Low,Unknown,Married,GA,White-collar,208628.64,2.51
+C000907,F,30-40,High,Unknown,Single,TX,Retirees,99987.34,3.58
+C000908,F,30-40,Med,Doctorate,Married,NJ,Selfemployed,166417.14,3.4
+C000909,F,30-40,Low,Uneducated,Unknown,NY,Businessman,237232.97,1.52
+C000910,F,30-40,Med,Post-Graduate,Single,TX,White-collar,156815.93,2.16
+C000911,F,40-50,Low,Unknown,Single,IL,Retirees,114870.15,1.65
+C000912,F,40-50,Med,Doctorate,Married,GA,Govt,59565.37,3.11
+C000913,F,40-50,Med,Uneducated,Single,FL,Blue-collar,237807.01,4.26
+C000914,M,30-40,Low,High School,Married,NC,Govt,88962.69,4.8
+C000915,F,40-50,Med,Doctorate,Married,FL,Selfemployed,211416.63,4.4
+C000916,F,50-60,Low,Graduate,Married,PA,Businessman,23200.25,2.65
+C000917,F,60+,High,Doctorate,Single,GA,Selfemployed,186880.47,4.48
+C000918,M,50-60,Low,High School,Married,TX,Selfemployed,28635.27,3.88
+C000919,M,30-40,High,Post-Graduate,Unknown,MI,Govt,112993.86,1.99
+C000920,F,30-40,Med,Unknown,Single,MI,White-collar,110015.94,1.64
+C000921,M,40-50,Med,Post-Graduate,Unknown,NY,Businessman,211593.9,2.09
+C000922,M,60+,Low,High School,Unknown,GA,Businessman,187129.74,1.05
+C000923,F,40-50,Med,Unknown,Unknown,MI,Blue-collar,182739.38,2.37
+C000924,F,40-50,Low,Graduate,Married,NY,Govt,174921.39,1.57
+C000925,M,30-40,High,High School,Unknown,NC,Selfemployed,161809.84,3.26
+C000926,F,50-60,Med,Unknown,Single,CA,White-collar,61481.67,2.58
+C000927,M,50-60,Low,Post-Graduate,Married,NY,Businessman,46930.11,2.55
+C000928,F,50-60,High,Uneducated,Single,NC,Businessman,65499.92,2.45
+C000929,M,40-50,Med,Post-Graduate,Married,NC,Blue-collar,241223.17,3.91
+C000930,M,50-60,High,Doctorate,Unknown,FL,Retirees,231951.15,3.62
+C000931,M,30-40,Med,High School,Single,IL,Selfemployed,216155.52,4.85
+C000932,F,50-60,Low,Unknown,Unknown,TX,White-collar,121250.36,1.57
+C000933,F,50-60,High,Post-Graduate,Single,CA,Blue-collar,99481.66,4.96
+C000934,M,50-60,Low,Uneducated,Single,TX,Govt,96214.36,3.24
+C000935,F,30-40,High,Uneducated,Unknown,FL,Retirees,220981.88,4.16
+C000936,F,40-50,Med,Graduate,Married,IL,Retirees,21009.68,1.93
+C000937,M,40-50,Med,Graduate,Single,GA,White-collar,47079.51,2.68
+C000938,M,50-60,High,Graduate,Unknown,PA,White-collar,240228.77,1.64
+C000939,M,40-50,Low,Post-Graduate,Married,CA,Govt,16415.55,4.71
+C000940,F,40-50,High,High School,Single,PA,White-collar,182226.08,3.15
+C000941,M,20-30,High,Uneducated,Single,TX,Retirees,27369.01,3.27
+C000942,F,20-30,High,High School,Unknown,CA,White-collar,174450.37,4.01
+C000943,M,30-40,Med,High School,Unknown,GA,Retirees,170839.18,1.15
+C000944,M,50-60,Med,Post-Graduate,Married,NJ,Businessman,40266.73,2.48
+C000945,F,30-40,Med,High School,Single,IL,Govt,71271.77,3.97
+C000946,M,30-40,Med,Graduate,Married,NJ,Blue-collar,154863.91,1.21
+C000947,F,20-30,High,Graduate,Single,MI,Govt,78623.02,4.37
+C000948,M,30-40,Med,High School,Married,NC,Blue-collar,53515.24,4.57
+C000949,F,30-40,High,Graduate,Married,GA,Retirees,87513.91,1.57
+C000950,M,40-50,Low,Graduate,Married,TX,White-collar,195911.25,1.48
+C000951,M,40-50,Med,Uneducated,Married,IL,Retirees,205013.52,2.05
+C000952,F,50-60,Med,High School,Married,IL,Businessman,210156.69,4.92
+C000953,F,40-50,Low,Doctorate,Unknown,GA,Selfemployed,185607.68,3.79
+C000954,F,60+,Low,Doctorate,Unknown,CA,Selfemployed,211508.94,2.9
+C000955,F,40-50,Med,Uneducated,Unknown,NY,Blue-collar,40214.63,1.32
+C000956,M,40-50,Med,Unknown,Single,FL,White-collar,59893.66,3.64
+C000957,M,50-60,Med,High School,Married,IL,Selfemployed,99992.48,3.01
+C000958,M,30-40,High,High School,Single,FL,Businessman,142072.28,3.98
+C000959,F,30-40,Low,Uneducated,Single,TX,Govt,99136.22,3.76
+C000960,F,40-50,High,Unknown,Single,NC,White-collar,32041.15,2.87
+C000961,F,20-30,High,Unknown,Unknown,MI,Retirees,48649.75,4.97
+C000962,F,40-50,Low,Uneducated,Unknown,NC,White-collar,99152.27,1.7
+C000963,F,40-50,High,Post-Graduate,Married,FL,Govt,142559.62,2.75
+C000964,M,60+,Low,High School,Married,GA,Govt,146983.31,2.11
+C000965,F,20-30,Med,High School,Single,NC,Retirees,143289.14,1.44
+C000966,F,50-60,High,Post-Graduate,Married,NY,Businessman,95107.99,1.92
+C000967,M,20-30,Med,Unknown,Married,MI,White-collar,234000.82,1.12
+C000968,F,40-50,High,Doctorate,Single,GA,Retirees,79256.93,4.75
+C000969,M,30-40,High,Graduate,Married,NY,Selfemployed,92084.2,2.61
+C000970,M,50-60,High,Graduate,Married,NY,Blue-collar,101961.7,1.67
+C000971,F,40-50,Med,Post-Graduate,Unknown,CA,Selfemployed,194532.59,1.44
+C000972,M,30-40,High,Graduate,Single,TX,Businessman,25906.88,2.58
+C000973,F,50-60,High,Graduate,Married,FL,Selfemployed,136811.11,2.74
+C000974,M,20-30,Med,High School,Unknown,NC,Businessman,91672.63,4.44
+C000975,M,20-30,Low,Unknown,Single,PA,Businessman,240810.42,4.88
+C000976,M,20-30,Low,Uneducated,Married,GA,Businessman,83490.76,3.26
+C000977,M,40-50,Med,Unknown,Unknown,NC,Selfemployed,94572.64,4.38
+C000978,F,40-50,Med,Doctorate,Unknown,GA,Selfemployed,37212.73,2.9
+C000979,F,40-50,High,Graduate,Married,FL,Selfemployed,34615.29,4.65
+C000980,M,50-60,Low,Post-Graduate,Unknown,CA,Selfemployed,236201.55,3.06
+C000981,M,50-60,Low,Graduate,Single,GA,Blue-collar,33647.04,1.49
+C000982,F,30-40,Med,Uneducated,Single,CA,Selfemployed,114997.52,1.18
+C000983,M,40-50,Med,Uneducated,Unknown,TX,Businessman,130174.78,3.99
+C000984,F,40-50,High,High School,Married,TX,Selfemployed,126163.53,4.0
+C000985,F,40-50,Low,Uneducated,Married,NY,Businessman,28517.45,4.56
+C000986,M,50-60,High,Post-Graduate,Single,NC,Blue-collar,175810.01,2.13
+C000987,F,50-60,Low,Uneducated,Single,TX,White-collar,162517.8,1.24
+C000988,F,40-50,Low,Unknown,Single,TX,Govt,137755.13,4.42
+C000989,M,50-60,High,Doctorate,Single,IL,Govt,60104.45,4.72
+C000990,M,30-40,Med,Unknown,Single,GA,Blue-collar,139685.36,3.63
+C000991,M,40-50,High,Unknown,Unknown,NJ,Selfemployed,235892.22,2.16
+C000992,F,60+,Med,Post-Graduate,Single,FL,Businessman,240243.57,4.23
+C000993,F,40-50,Low,Unknown,Unknown,NJ,Govt,160610.37,3.14
+C000994,F,40-50,Low,Doctorate,Married,MI,Blue-collar,204310.92,3.91
+C000995,F,50-60,High,Post-Graduate,Married,GA,Businessman,50699.07,3.38
+C000996,M,50-60,Med,Uneducated,Married,NC,White-collar,37853.02,2.3
+C000997,F,50-60,Med,High School,Unknown,IL,Businessman,212908.88,4.48
+C000998,F,40-50,Med,Unknown,Married,NC,White-collar,207071.16,1.13
+C000999,F,50-60,Med,High School,Married,NY,White-collar,78519.22,2.81
+C001000,M,40-50,Med,Doctorate,Single,NY,White-collar,214361.06,3.53
+C001001,F,50-60,Med,Graduate,Married,IL,Selfemployed,181755.87,2.98
+C001002,F,40-50,Low,High School,Single,NY,Retirees,181094.16,1.13
+C001003,M,40-50,Low,Uneducated,Single,NC,Selfemployed,143824.45,4.22
+C001004,M,50-60,Med,High School,Single,FL,Govt,82327.98,4.86
+C001005,F,50-60,Low,High School,Married,IL,Businessman,151098.67,2.03
+C001006,M,30-40,High,High School,Married,TX,Blue-collar,163150.23,3.81
+C001007,F,60+,Low,Unknown,Single,TX,Govt,238295.97,2.24
+C001008,F,50-60,High,Doctorate,Married,TX,Blue-collar,213050.93,2.12
+C001009,F,30-40,High,Uneducated,Unknown,FL,Selfemployed,24024.96,2.02
+C001010,F,40-50,Low,Post-Graduate,Unknown,NY,Retirees,217856.85,2.37
+C001011,F,40-50,High,Graduate,Single,MI,Govt,143575.01,4.8
+C001012,M,20-30,High,High School,Single,GA,Govt,130529.57,3.51
+C001013,F,20-30,Low,Uneducated,Single,FL,Businessman,66903.81,4.84
+C001014,M,50-60,Low,Graduate,Single,MI,Retirees,164558.84,3.18
+C001015,F,40-50,High,Graduate,Single,PA,Businessman,162265.39,2.96
+C001016,M,40-50,Med,Uneducated,Married,NC,Govt,91820.78,4.82
+C001017,M,20-30,Med,Unknown,Unknown,MI,Businessman,99214.31,4.49
+C001018,F,50-60,Med,Post-Graduate,Single,NJ,Selfemployed,241260.81,2.9
+C001019,F,50-60,Low,High School,Married,PA,Businessman,149895.88,1.49
+C001020,M,40-50,Med,Doctorate,Unknown,TX,Retirees,223661.69,3.78
+C001021,M,30-40,Med,Unknown,Married,GA,White-collar,218095.46,2.63
+C001022,M,40-50,Med,Uneducated,Single,IL,Govt,37603.51,4.95
+C001023,F,40-50,High,Uneducated,Unknown,FL,Selfemployed,175589.53,1.41
+C001024,M,30-40,Med,Graduate,Single,GA,Selfemployed,121749.52,2.37
+C001025,M,30-40,Low,Uneducated,Single,TX,Businessman,118278.24,4.89
+C001026,F,40-50,Low,Uneducated,Single,GA,Blue-collar,249913.0,2.67
+C001027,M,20-30,Low,Uneducated,Married,CA,Retirees,56855.91,3.81
+C001028,M,40-50,Low,High School,Married,NC,Retirees,102953.6,4.47
+C001029,M,50-60,Med,Graduate,Unknown,TX,Retirees,194278.72,2.57
+C001030,F,60+,Low,Post-Graduate,Single,CA,Retirees,205349.3,3.36
+C001031,F,40-50,High,Unknown,Unknown,NY,White-collar,38519.5,4.37
+C001032,F,20-30,High,Uneducated,Married,NJ,Govt,185044.68,1.34
+C001033,M,30-40,High,Graduate,Unknown,NJ,Selfemployed,175370.63,2.64
+C001034,F,30-40,Low,High School,Unknown,FL,Blue-collar,161700.81,1.44
+C001035,M,30-40,High,High School,Married,MI,Businessman,120584.62,4.5
+C001036,M,50-60,High,High School,Unknown,GA,White-collar,56607.12,3.54
+C001037,M,50-60,High,Graduate,Single,PA,Govt,45795.08,4.33
+C001038,F,40-50,Med,Uneducated,Unknown,TX,Blue-collar,163851.06,1.81
+C001039,M,40-50,Med,High School,Married,GA,Blue-collar,142916.88,2.25
+C001040,M,60+,High,High School,Unknown,TX,Retirees,141886.8,3.76
+C001041,M,40-50,Med,Doctorate,Unknown,NC,Govt,86656.34,3.52
+C001042,M,50-60,High,Uneducated,Single,NY,White-collar,218820.65,3.36
+C001043,F,20-30,Low,Post-Graduate,Married,PA,Retirees,202949.56,3.91
+C001044,M,40-50,High,Doctorate,Unknown,NY,Businessman,117656.88,4.51
+C001045,M,40-50,Low,Graduate,Married,PA,Businessman,223345.94,2.21
+C001046,M,50-60,Med,Post-Graduate,Married,NC,Retirees,71585.66,1.94
+C001047,M,50-60,High,Uneducated,Single,NY,Blue-collar,49331.74,1.9
+C001048,M,20-30,High,Doctorate,Married,NJ,Blue-collar,105469.15,3.18
+C001049,M,30-40,Low,Uneducated,Single,FL,White-collar,101492.77,3.52
+C001050,M,40-50,Med,Uneducated,Married,GA,White-collar,28841.43,4.74
+C001051,M,50-60,High,Post-Graduate,Single,MI,White-collar,76569.66,4.45
+C001052,M,50-60,High,Doctorate,Unknown,GA,Businessman,197101.85,1.97
+C001053,M,30-40,Med,Post-Graduate,Married,FL,Selfemployed,191162.79,4.83
+C001054,F,20-30,High,Unknown,Married,NY,Govt,146115.97,1.91
+C001055,F,40-50,Med,Doctorate,Unknown,NJ,Selfemployed,112377.79,2.59
+C001056,F,40-50,Low,High School,Married,CA,Retirees,154819.38,4.41
+C001057,F,50-60,High,Unknown,Married,IL,Retirees,190244.45,5.0
+C001058,M,40-50,Med,Post-Graduate,Married,IL,Blue-collar,231132.29,2.49
+C001059,M,40-50,Low,Post-Graduate,Unknown,FL,Blue-collar,31087.44,4.85
+C001060,F,40-50,High,Graduate,Unknown,FL,Selfemployed,98939.19,1.45
+C001061,M,40-50,Med,Graduate,Unknown,PA,Businessman,179494.27,1.86
+C001062,M,50-60,High,High School,Unknown,FL,Retirees,157941.15,1.54
+C001063,M,40-50,Med,Unknown,Single,MI,Selfemployed,159555.16,2.81
+C001064,M,40-50,High,Post-Graduate,Unknown,IL,Govt,200010.78,1.78
+C001065,F,40-50,High,Unknown,Married,FL,Retirees,46830.73,2.23
+C001066,M,60+,Med,Doctorate,Unknown,MI,Govt,243088.44,2.06
+C001067,F,40-50,High,Graduate,Single,FL,Selfemployed,73868.72,4.01
+C001068,M,40-50,Med,Uneducated,Single,NY,Govt,170144.71,4.28
+C001069,M,40-50,Low,Doctorate,Single,TX,White-collar,123104.49,4.2
+C001070,F,60+,Med,Uneducated,Unknown,PA,Selfemployed,121526.6,3.82
+C001071,M,50-60,Low,Graduate,Married,CA,White-collar,196623.67,2.05
+C001072,F,40-50,Low,High School,Single,MI,Retirees,54327.37,4.26
+C001073,F,40-50,Med,Graduate,Unknown,NJ,Businessman,140799.25,4.9
+C001074,M,40-50,Low,Uneducated,Single,IL,White-collar,83279.45,3.68
+C001075,M,40-50,Low,Doctorate,Unknown,NC,Businessman,158443.02,4.64
+C001076,F,50-60,High,Doctorate,Single,NC,Selfemployed,106184.3,1.47
+C001077,F,30-40,Low,High School,Unknown,NJ,Blue-collar,150799.81,3.11
+C001078,M,50-60,Low,Post-Graduate,Single,CA,White-collar,149465.79,3.85
+C001079,F,40-50,Med,Uneducated,Unknown,FL,Blue-collar,214632.69,3.37
+C001080,F,30-40,High,Doctorate,Unknown,GA,Blue-collar,57030.3,4.45
+C001081,M,30-40,Med,Uneducated,Unknown,TX,Retirees,225952.86,1.44
+C001082,M,20-30,High,Unknown,Unknown,NC,Blue-collar,224293.49,1.64
+C001083,M,20-30,Med,Uneducated,Married,NJ,Blue-collar,215210.17,3.03
+C001084,F,40-50,Low,Graduate,Married,IL,Businessman,85345.27,3.46
+C001085,F,50-60,Med,Graduate,Unknown,PA,Businessman,226967.36,4.59
+C001086,F,50-60,Low,Graduate,Married,PA,Govt,109352.97,2.31
+C001087,M,50-60,Med,High School,Unknown,GA,Selfemployed,86404.25,4.7
+C001088,M,30-40,Med,Uneducated,Single,MI,Blue-collar,18652.5,1.45
+C001089,F,40-50,High,Unknown,Single,IL,Blue-collar,69149.83,1.63
+C001090,M,40-50,Med,Graduate,Unknown,NY,White-collar,170232.91,4.55
+C001091,F,30-40,Low,Graduate,Married,NJ,Blue-collar,54210.0,1.07
+C001092,M,30-40,Low,Doctorate,Married,NJ,Selfemployed,22924.39,1.26
+C001093,F,40-50,Low,Uneducated,Single,TX,Retirees,232713.98,2.17
+C001094,M,60+,Low,Unknown,Married,MI,White-collar,62500.38,3.11
+C001095,M,50-60,Med,High School,Single,GA,Retirees,66059.32,3.07
+C001096,M,40-50,High,Doctorate,Unknown,PA,Govt,104776.24,3.93
+C001097,F,30-40,High,Uneducated,Unknown,MI,Govt,43639.43,1.85
+C001098,M,30-40,Low,Doctorate,Married,CA,Govt,171251.48,1.11
+C001099,M,40-50,Low,Uneducated,Single,NY,Retirees,234847.75,1.03
+C001100,F,50-60,High,High School,Unknown,NY,Businessman,107649.1,3.46
+C001101,M,50-60,Low,Graduate,Unknown,GA,Govt,49735.5,1.08
+C001102,M,50-60,High,Uneducated,Unknown,MI,White-collar,158956.49,1.72
+C001103,F,50-60,Med,Post-Graduate,Married,FL,Businessman,23069.18,2.68
+C001104,M,50-60,High,Graduate,Single,NC,Blue-collar,24856.39,2.81
+C001105,M,30-40,Med,Uneducated,Married,IL,White-collar,189293.05,3.01
+C001106,M,40-50,Low,Unknown,Married,NJ,Retirees,82926.89,3.35
+C001107,M,60+,High,High School,Single,PA,Retirees,116821.42,4.11
+C001108,M,30-40,Med,High School,Single,TX,Govt,91462.89,4.37
+C001109,F,40-50,Low,High School,Married,MI,Govt,203221.89,1.14
+C001110,M,50-60,Med,Graduate,Single,MI,Businessman,161140.86,3.2
+C001111,M,40-50,Med,Uneducated,Single,NY,Selfemployed,46390.74,3.78
+C001112,M,40-50,Med,Unknown,Married,GA,Govt,204441.46,2.68
+C001113,F,60+,Med,Uneducated,Unknown,TX,Blue-collar,226767.94,2.67
+C001114,M,30-40,Med,Uneducated,Single,NY,White-collar,55195.19,1.74
+C001115,F,30-40,Low,High School,Single,GA,Retirees,51912.13,1.43
+C001116,M,40-50,High,Post-Graduate,Married,IL,White-collar,106787.77,4.8
+C001117,F,60+,Med,Unknown,Unknown,FL,White-collar,40913.68,3.27
+C001118,F,40-50,Low,Graduate,Married,IL,Selfemployed,54952.39,3.93
+C001119,F,30-40,Med,Graduate,Single,IL,Businessman,238520.72,4.8
+C001120,F,40-50,Med,Uneducated,Married,GA,Blue-collar,130946.17,1.07
+C001121,M,30-40,Med,Graduate,Married,NJ,White-collar,202817.96,1.67
+C001122,M,50-60,Med,Graduate,Married,TX,Businessman,29942.29,4.06
+C001123,F,60+,High,Uneducated,Unknown,PA,Businessman,61892.91,1.01
+C001124,M,30-40,Med,High School,Single,FL,Businessman,65587.17,1.59
+C001125,M,40-50,Med,High School,Single,IL,Retirees,196962.95,4.18
+C001126,M,40-50,Low,Uneducated,Unknown,NC,White-collar,59901.15,3.09
+C001127,M,50-60,Low,High School,Single,CA,Blue-collar,119696.12,3.6
+C001128,F,50-60,Med,Graduate,Married,MI,Retirees,242587.41,1.56
+C001129,F,30-40,High,High School,Single,IL,Businessman,191519.29,4.4
+C001130,M,50-60,High,High School,Unknown,GA,Blue-collar,137518.99,4.61
+C001131,F,40-50,High,Uneducated,Unknown,TX,Businessman,168912.24,3.39
+C001132,F,50-60,Med,Uneducated,Unknown,NJ,Retirees,139363.17,3.12
+C001133,F,30-40,Med,High School,Unknown,FL,Selfemployed,218388.45,3.64
+C001134,F,30-40,Med,Graduate,Unknown,FL,Govt,78240.85,3.71
+C001135,M,40-50,High,Unknown,Married,TX,Govt,63724.76,4.86
+C001136,M,40-50,Low,Unknown,Unknown,GA,Govt,232545.64,2.37
+C001137,F,50-60,High,High School,Single,NY,Blue-collar,133740.58,4.51
+C001138,F,40-50,Med,Post-Graduate,Married,GA,Retirees,71467.43,2.58
+C001139,F,50-60,Med,Post-Graduate,Single,TX,Businessman,28339.26,2.14
+C001140,M,20-30,Low,Doctorate,Single,NC,Selfemployed,240219.82,2.33
+C001141,M,40-50,Low,Graduate,Single,MI,Retirees,49791.66,1.88
+C001142,F,40-50,Low,Graduate,Married,FL,Businessman,168058.43,3.58
+C001143,M,30-40,Low,Post-Graduate,Single,TX,Retirees,164404.69,4.9
+C001144,M,40-50,High,Post-Graduate,Unknown,TX,Govt,105474.53,3.01
+C001145,F,60+,Med,Unknown,Single,NJ,Businessman,163655.21,2.48
+C001146,M,40-50,Low,Unknown,Unknown,TX,Retirees,240216.14,3.12
+C001147,M,40-50,Med,Unknown,Unknown,CA,White-collar,220054.54,3.99
+C001148,F,50-60,High,Post-Graduate,Unknown,NY,Retirees,189707.2,3.2
+C001149,M,20-30,High,Uneducated,Unknown,NY,Blue-collar,112925.19,1.25
+C001150,M,30-40,Med,High School,Single,GA,Businessman,76348.81,2.78
+C001151,F,50-60,Med,Graduate,Single,MI,White-collar,22185.04,2.6
+C001152,M,40-50,Low,Uneducated,Single,NY,Govt,59932.25,4.12
+C001153,M,40-50,Med,Post-Graduate,Married,IL,Retirees,106512.16,2.7
+C001154,M,50-60,Med,Uneducated,Single,NY,Retirees,235044.79,3.02
+C001155,M,20-30,Med,Doctorate,Single,NJ,Retirees,157658.93,4.85
+C001156,F,50-60,Low,Uneducated,Single,NC,Selfemployed,161042.33,4.83
+C001157,M,40-50,Low,High School,Single,PA,Blue-collar,95030.96,4.57
+C001158,M,40-50,High,Graduate,Single,PA,White-collar,60733.34,4.37
+C001159,F,40-50,Med,Graduate,Single,NC,Govt,142956.76,4.93
+C001160,M,30-40,High,Unknown,Unknown,NY,Blue-collar,136179.94,4.23
+C001161,F,40-50,Med,Doctorate,Unknown,PA,Businessman,151919.64,2.98
+C001162,M,40-50,High,Post-Graduate,Married,TX,Govt,49348.87,3.82
+C001163,F,60+,High,Doctorate,Unknown,NJ,White-collar,157605.16,2.91
+C001164,M,20-30,Low,High School,Married,TX,Selfemployed,236474.72,3.01
+C001165,F,50-60,Low,Graduate,Single,CA,White-collar,52287.78,1.22
+C001166,F,40-50,Low,Doctorate,Unknown,FL,Retirees,236975.45,1.25
+C001167,F,50-60,High,Unknown,Married,NY,Businessman,225321.4,4.74
+C001168,F,20-30,High,Post-Graduate,Unknown,NJ,Businessman,140938.27,4.89
+C001169,M,60+,High,Post-Graduate,Single,NJ,Govt,218899.78,4.37
+C001170,F,60+,Low,Uneducated,Single,TX,Govt,117134.58,3.88
+C001171,F,20-30,High,Post-Graduate,Unknown,NC,Retirees,22915.17,1.69
+C001172,M,30-40,Low,Unknown,Married,PA,White-collar,83813.81,3.72
+C001173,F,50-60,High,Unknown,Unknown,CA,Businessman,29480.32,3.51
+C001174,F,20-30,Low,Uneducated,Single,CA,Govt,155807.51,2.12
+C001175,M,40-50,Low,High School,Married,GA,Govt,60471.91,1.03
+C001176,F,60+,Med,Graduate,Unknown,NC,Businessman,208472.51,3.32
+C001177,F,40-50,High,Unknown,Married,NJ,Selfemployed,119097.85,3.17
+C001178,F,50-60,Low,Doctorate,Married,NC,Selfemployed,197658.55,4.25
+C001179,M,40-50,High,Graduate,Single,CA,White-collar,188018.71,2.41
+C001180,M,40-50,Med,Uneducated,Married,TX,White-collar,44397.55,3.4
+C001181,F,30-40,High,Graduate,Single,IL,Selfemployed,159892.03,3.94
+C001182,F,60+,Low,Doctorate,Unknown,NJ,Selfemployed,193248.3,2.73
+C001183,F,30-40,High,Uneducated,Unknown,IL,Businessman,86384.97,2.81
+C001184,M,50-60,Med,Uneducated,Single,CA,Retirees,225708.03,2.81
+C001185,F,40-50,Med,Graduate,Single,PA,Businessman,244114.66,1.42
+C001186,M,40-50,Low,Graduate,Unknown,CA,Retirees,44310.03,3.85
+C001187,M,20-30,High,Post-Graduate,Single,CA,Govt,45030.06,4.81
+C001188,M,40-50,Med,Uneducated,Married,NC,Selfemployed,174305.58,3.72
+C001189,F,40-50,High,Unknown,Single,MI,Govt,214825.88,2.46
+C001190,F,50-60,Low,Doctorate,Unknown,CA,Blue-collar,115256.89,3.74
+C001191,F,20-30,High,Graduate,Single,FL,Govt,105460.71,3.53
+C001192,F,50-60,Low,Post-Graduate,Married,IL,Retirees,168676.5,4.24
+C001193,F,30-40,High,Uneducated,Unknown,NJ,Selfemployed,85864.16,4.4
+C001194,M,40-50,High,Unknown,Married,CA,Govt,33824.73,3.06
+C001195,M,50-60,High,Post-Graduate,Unknown,NC,Selfemployed,84670.76,1.63
+C001196,F,30-40,High,Post-Graduate,Single,TX,Businessman,225027.85,1.56
+C001197,F,40-50,Low,Unknown,Married,NJ,White-collar,20825.8,2.91
+C001198,M,60+,Low,Uneducated,Single,PA,Businessman,220958.2,3.83
+C001199,F,40-50,High,High School,Single,CA,Businessman,87149.06,2.93
+C001200,F,40-50,Low,High School,Unknown,CA,Blue-collar,210448.59,3.29
+C001201,F,40-50,Med,High School,Single,TX,Govt,47759.24,2.37
+C001202,M,30-40,Low,Doctorate,Single,CA,Govt,243408.43,1.06
+C001203,M,30-40,High,Uneducated,Married,PA,White-collar,247351.36,3.82
+C001204,F,40-50,High,Graduate,Married,MI,Blue-collar,184388.98,3.41
+C001205,F,40-50,Low,Uneducated,Single,TX,Selfemployed,142685.29,2.81
+C001206,M,40-50,Low,High School,Married,MI,White-collar,210249.02,3.14
+C001207,M,30-40,High,Doctorate,Single,IL,White-collar,242709.63,3.24
+C001208,F,50-60,Low,High School,Married,GA,Blue-collar,182896.11,1.2
+C001209,M,50-60,High,Doctorate,Unknown,FL,Businessman,42432.75,4.56
+C001210,F,40-50,Med,Unknown,Single,NY,Govt,177934.32,2.59
+C001211,M,50-60,Low,Unknown,Married,NY,White-collar,91509.01,1.08
+C001212,M,40-50,High,Post-Graduate,Unknown,NC,Govt,143734.5,1.0
+C001213,M,30-40,Med,Doctorate,Single,MI,White-collar,166474.68,4.29
+C001214,F,20-30,Med,High School,Unknown,NC,Selfemployed,43934.48,5.0
+C001215,F,30-40,Low,Doctorate,Single,TX,Blue-collar,144505.87,4.54
+C001216,M,40-50,Med,Graduate,Married,PA,Selfemployed,95696.64,3.32
+C001217,M,30-40,High,High School,Married,NC,Retirees,129557.73,2.22
+C001218,F,40-50,Med,Graduate,Single,NJ,Businessman,148465.16,4.08
+C001219,F,20-30,Low,High School,Married,CA,Govt,103195.03,4.33
+C001220,M,40-50,High,Unknown,Single,GA,Retirees,170092.69,3.7
+C001221,F,50-60,High,Unknown,Single,NC,Blue-collar,134559.96,2.89
+C001222,F,20-30,Low,High School,Married,PA,Govt,212443.71,2.43
+C001223,M,40-50,Med,Graduate,Single,NJ,Blue-collar,148398.09,3.06
+C001224,M,50-60,Med,High School,Single,MI,Blue-collar,106367.73,3.31
+C001225,F,30-40,Low,Uneducated,Unknown,TX,Retirees,226290.42,4.56
+C001226,M,40-50,High,Graduate,Single,FL,Retirees,170683.11,4.77
+C001227,F,40-50,Low,Post-Graduate,Single,TX,Selfemployed,92113.61,1.0
+C001228,M,60+,High,Unknown,Unknown,PA,White-collar,219733.16,3.02
+C001229,F,40-50,High,Post-Graduate,Unknown,NC,Selfemployed,55719.6,4.9
+C001230,M,50-60,High,Graduate,Married,NJ,White-collar,17857.29,4.02
+C001231,M,50-60,High,Doctorate,Unknown,MI,Selfemployed,236139.36,2.38
+C001232,M,40-50,Med,Unknown,Married,NC,Retirees,241811.49,4.24
+C001233,M,50-60,High,Graduate,Single,NY,Retirees,116803.29,4.42
+C001234,F,40-50,Low,Uneducated,Single,TX,White-collar,165562.94,4.22
+C001235,M,20-30,High,Uneducated,Single,IL,Selfemployed,195227.57,1.24
+C001236,F,40-50,High,Post-Graduate,Married,FL,White-collar,156279.7,4.41
+C001237,M,40-50,High,Doctorate,Unknown,MI,Retirees,171562.6,3.52
+C001238,F,30-40,Low,Doctorate,Single,CA,Blue-collar,44544.58,1.27
+C001239,F,20-30,Low,Post-Graduate,Unknown,MI,Selfemployed,167402.0,3.81
+C001240,M,40-50,Low,Graduate,Single,MI,Businessman,34890.6,1.43
+C001241,M,50-60,Med,Graduate,Single,FL,Selfemployed,155764.32,3.93
+C001242,F,60+,High,Graduate,Single,PA,Retirees,126009.18,2.33
+C001243,F,30-40,Low,Post-Graduate,Unknown,TX,Retirees,94782.37,1.21
+C001244,M,40-50,High,Unknown,Unknown,NJ,White-collar,107853.27,1.07
+C001245,F,40-50,Low,Post-Graduate,Married,FL,Selfemployed,111004.71,4.51
+C001246,M,50-60,High,Graduate,Single,TX,White-collar,180931.96,2.08
+C001247,M,40-50,Low,Post-Graduate,Married,TX,Selfemployed,214171.38,3.47
+C001248,M,50-60,Low,High School,Unknown,TX,Selfemployed,168894.84,1.77
+C001249,F,30-40,High,Doctorate,Married,CA,White-collar,76469.02,3.26
+C001250,M,40-50,Med,Post-Graduate,Single,NJ,Businessman,44769.89,3.95
+C001251,F,60+,Low,Unknown,Single,FL,Govt,231597.81,4.03
+C001252,M,20-30,High,Doctorate,Single,IL,Businessman,188172.01,4.32
+C001253,M,30-40,Med,High School,Married,IL,Retirees,226071.83,1.68
+C001254,M,20-30,High,Post-Graduate,Married,NJ,Selfemployed,90748.66,1.32
+C001255,F,50-60,High,Doctorate,Married,NY,White-collar,130122.26,1.13
+C001256,F,40-50,High,Graduate,Single,MI,White-collar,164260.87,3.59
+C001257,M,30-40,Med,Uneducated,Married,IL,Retirees,141867.41,3.57
+C001258,M,50-60,Low,Post-Graduate,Married,PA,Selfemployed,242466.93,4.43
+C001259,M,40-50,Low,Doctorate,Unknown,NC,Businessman,199368.3,4.63
+C001260,F,40-50,High,Unknown,Married,GA,Blue-collar,97332.59,2.84
+C001261,M,40-50,Med,Doctorate,Unknown,IL,Selfemployed,248890.09,2.35
+C001262,F,30-40,Med,Unknown,Married,MI,Govt,152956.28,3.2
+C001263,M,50-60,High,Graduate,Married,PA,Blue-collar,130370.1,4.46
+C001264,M,50-60,Low,Uneducated,Married,CA,Businessman,147093.2,4.61
+C001265,M,40-50,Low,Graduate,Married,NJ,Selfemployed,235233.31,2.25
+C001266,M,40-50,Low,Uneducated,Married,CA,Retirees,95073.7,3.89
+C001267,M,40-50,Low,Post-Graduate,Unknown,TX,Retirees,65168.49,1.85
+C001268,M,20-30,High,Doctorate,Unknown,GA,Govt,211205.6,3.9
+C001269,F,40-50,High,High School,Unknown,CA,Businessman,186874.44,3.11
+C001270,M,40-50,High,Post-Graduate,Unknown,PA,White-collar,145322.4,2.61
+C001271,F,20-30,Med,Doctorate,Married,FL,Blue-collar,43541.56,3.9
+C001272,F,20-30,Med,Doctorate,Married,MI,Govt,180613.87,3.84
+C001273,M,40-50,Med,Uneducated,Married,GA,White-collar,121438.65,1.57
+C001274,M,40-50,Med,Graduate,Unknown,PA,Selfemployed,115384.16,4.5
+C001275,F,30-40,Med,Doctorate,Married,CA,Retirees,195064.26,3.39
+C001276,M,30-40,Low,Doctorate,Married,CA,Govt,104179.16,2.2
+C001277,M,30-40,High,Doctorate,Single,NJ,White-collar,36269.32,2.81
+C001278,M,50-60,High,High School,Single,NJ,White-collar,82087.87,4.08
+C001279,M,40-50,Low,Doctorate,Unknown,PA,Retirees,133792.92,1.0
+C001280,M,30-40,Low,Unknown,Single,TX,Govt,244338.16,4.72
+C001281,F,30-40,Low,Doctorate,Single,TX,Retirees,131777.78,1.78
+C001282,M,50-60,High,Doctorate,Single,IL,Retirees,47563.77,1.02
+C001283,F,20-30,High,Unknown,Single,PA,White-collar,156664.14,2.55
+C001284,M,20-30,Low,Graduate,Married,GA,Blue-collar,146069.86,4.57
+C001285,F,50-60,Low,Doctorate,Single,NJ,Selfemployed,221279.46,3.44
+C001286,F,20-30,Med,Graduate,Married,MI,White-collar,84377.21,4.21
+C001287,M,40-50,Low,High School,Unknown,TX,Businessman,22199.16,3.45
+C001288,F,40-50,High,Unknown,Married,NJ,Selfemployed,208476.47,2.66
+C001289,M,20-30,High,Post-Graduate,Married,TX,White-collar,146330.26,4.52
+C001290,M,40-50,Low,High School,Married,FL,Businessman,141406.35,1.67
+C001291,F,30-40,High,High School,Unknown,FL,Businessman,194278.95,1.08
+C001292,F,30-40,Med,High School,Single,MI,White-collar,177266.58,2.79
+C001293,M,50-60,High,Post-Graduate,Unknown,CA,Selfemployed,218271.77,3.03
+C001294,M,60+,Med,High School,Married,IL,Selfemployed,55025.9,3.49
+C001295,F,40-50,Low,Unknown,Unknown,MI,White-collar,228177.18,2.61
+C001296,M,40-50,Low,Doctorate,Unknown,NY,Govt,232634.25,4.6
+C001297,M,50-60,Low,Unknown,Married,IL,Govt,52109.5,1.02
+C001298,F,30-40,High,Post-Graduate,Unknown,NY,Blue-collar,128441.1,3.47
+C001299,M,50-60,Med,Unknown,Married,PA,Blue-collar,64055.57,4.81
+C001300,M,20-30,Low,Uneducated,Single,GA,Retirees,223498.54,3.8
+C001301,M,50-60,Med,High School,Single,GA,Retirees,236730.59,1.14
+C001302,F,50-60,Low,Doctorate,Married,CA,Blue-collar,42567.89,3.07
+C001303,M,30-40,Low,Doctorate,Married,NY,Businessman,227651.07,2.89
+C001304,M,50-60,Low,Post-Graduate,Married,NY,Retirees,94571.08,2.5
+C001305,M,60+,Low,High School,Married,TX,Blue-collar,37566.39,2.25
+C001306,M,50-60,Low,Post-Graduate,Single,NY,Selfemployed,100529.69,2.06
+C001307,M,60+,High,Uneducated,Single,CA,Blue-collar,129987.19,2.76
+C001308,F,40-50,High,Post-Graduate,Unknown,TX,Govt,155513.73,4.23
+C001309,F,30-40,Low,Unknown,Unknown,MI,Retirees,175713.45,1.84
+C001310,F,40-50,High,Doctorate,Married,CA,Blue-collar,204126.62,3.11
+C001311,M,20-30,Med,Graduate,Married,NY,Govt,43800.36,1.9
+C001312,F,50-60,High,Post-Graduate,Married,PA,Govt,147930.02,2.99
+C001313,M,20-30,High,Unknown,Married,MI,Selfemployed,161380.42,3.35
+C001314,F,60+,Med,Graduate,Married,NY,Blue-collar,24862.55,2.65
+C001315,F,50-60,Med,Post-Graduate,Unknown,NJ,Selfemployed,210873.07,1.03
+C001316,F,50-60,Low,Unknown,Unknown,NJ,Businessman,218567.15,2.88
+C001317,F,40-50,High,Graduate,Unknown,GA,White-collar,153823.29,1.77
+C001318,F,30-40,High,Post-Graduate,Married,NY,White-collar,214108.57,4.36
+C001319,M,30-40,Med,Post-Graduate,Single,GA,Govt,52040.81,4.35
+C001320,M,20-30,High,Graduate,Married,MI,Businessman,228116.74,2.58
+C001321,F,40-50,Low,Uneducated,Unknown,FL,Businessman,181377.09,2.83
+C001322,F,20-30,Med,Doctorate,Single,IL,Businessman,180460.85,4.38
+C001323,F,40-50,Low,Uneducated,Unknown,PA,White-collar,197911.94,3.2
+C001324,M,50-60,High,High School,Unknown,MI,Govt,59932.02,4.94
+C001325,F,50-60,High,Graduate,Married,TX,Selfemployed,80953.57,2.54
+C001326,F,60+,High,Graduate,Unknown,PA,Blue-collar,249525.07,1.17
+C001327,F,40-50,High,High School,Unknown,NY,Govt,33113.59,2.8
+C001328,M,20-30,Med,Post-Graduate,Unknown,NJ,Selfemployed,196312.98,1.83
+C001329,F,40-50,Low,Doctorate,Unknown,GA,Selfemployed,122666.03,3.34
+C001330,M,60+,Low,Uneducated,Single,NC,Businessman,149966.98,1.51
+C001331,F,30-40,Med,Post-Graduate,Single,PA,Blue-collar,240328.52,1.92
+C001332,M,40-50,High,Unknown,Single,GA,Businessman,28188.03,2.48
+C001333,F,30-40,Low,Post-Graduate,Married,GA,Retirees,80114.69,1.85
+C001334,F,60+,Med,High School,Unknown,TX,Retirees,172235.6,4.08
+C001335,M,20-30,Med,Uneducated,Married,NJ,Businessman,179693.71,2.2
+C001336,F,50-60,Low,High School,Married,GA,White-collar,115156.35,3.83
+C001337,F,20-30,Med,Unknown,Married,NY,Businessman,123233.43,3.71
+C001338,M,50-60,High,Unknown,Single,NC,Govt,196607.09,4.79
+C001339,M,20-30,High,Post-Graduate,Single,NJ,Businessman,112836.44,3.85
+C001340,F,50-60,Med,Graduate,Married,MI,Retirees,70979.34,2.04
+C001341,M,50-60,Med,Unknown,Married,FL,Businessman,33141.86,2.66
+C001342,F,50-60,High,Unknown,Unknown,TX,Businessman,202169.8,4.92
+C001343,M,30-40,Low,Unknown,Married,PA,Selfemployed,79438.27,3.53
+C001344,F,60+,High,Graduate,Unknown,CA,Blue-collar,84551.39,4.16
+C001345,M,60+,Low,High School,Unknown,FL,White-collar,22492.51,2.63
+C001346,M,60+,High,Unknown,Single,NY,White-collar,138974.11,1.38
+C001347,F,50-60,Low,Doctorate,Unknown,GA,White-collar,136260.55,1.37
+C001348,F,50-60,Med,Unknown,Married,GA,Retirees,78800.08,4.95
+C001349,M,40-50,Low,Uneducated,Single,MI,Retirees,102646.35,1.62
+C001350,F,60+,Low,Uneducated,Unknown,NY,Selfemployed,104621.02,1.24
+C001351,M,50-60,Med,Unknown,Married,TX,White-collar,211673.03,2.58
+C001352,M,20-30,Med,Post-Graduate,Single,GA,White-collar,89413.58,2.33
+C001353,M,50-60,High,High School,Unknown,NY,Blue-collar,176220.83,4.72
+C001354,M,40-50,Low,Unknown,Married,FL,Businessman,166204.56,2.61
+C001355,M,50-60,High,Uneducated,Married,NY,Selfemployed,87444.75,2.04
+C001356,F,40-50,High,Unknown,Single,TX,Govt,119217.56,2.11
+C001357,F,40-50,Low,Post-Graduate,Unknown,GA,White-collar,134970.55,1.64
+C001358,M,20-30,High,Doctorate,Married,NJ,White-collar,221923.52,2.86
+C001359,M,50-60,High,Unknown,Unknown,FL,Govt,127271.67,2.89
+C001360,F,20-30,Low,Uneducated,Unknown,FL,Govt,130060.39,4.63
+C001361,M,40-50,Med,Post-Graduate,Single,GA,White-collar,154426.71,2.64
+C001362,F,50-60,Low,High School,Single,NY,Selfemployed,205015.71,3.08
+C001363,F,20-30,Med,Uneducated,Married,NY,Selfemployed,173144.12,4.74
+C001364,F,40-50,Med,Graduate,Single,TX,Blue-collar,89898.53,1.2
+C001365,M,20-30,Med,Unknown,Single,NJ,Govt,79956.93,1.89
+C001366,M,40-50,Low,High School,Married,GA,Govt,26562.34,1.03
+C001367,M,20-30,Low,Graduate,Unknown,NY,Retirees,224421.19,4.07
+C001368,F,30-40,High,Graduate,Unknown,NJ,Govt,40161.27,4.5
+C001369,F,40-50,Low,Doctorate,Single,NY,Businessman,143863.67,4.6
+C001370,F,40-50,Low,Doctorate,Unknown,IL,Govt,241736.55,3.63
+C001371,F,50-60,Low,High School,Married,CA,Govt,236464.24,1.04
+C001372,F,40-50,Med,Doctorate,Single,FL,Retirees,45903.0,4.61
+C001373,F,50-60,High,Uneducated,Single,NY,Businessman,74747.12,1.58
+C001374,F,60+,Med,Doctorate,Single,NJ,Retirees,101928.8,2.41
+C001375,M,60+,Low,Graduate,Married,NJ,White-collar,37518.97,2.36
+C001376,M,40-50,Med,Graduate,Married,CA,White-collar,142080.7,1.7
+C001377,F,50-60,Low,Uneducated,Single,FL,Govt,227740.57,3.95
+C001378,M,60+,High,Graduate,Married,CA,Businessman,97853.03,3.9
+C001379,F,40-50,Low,Doctorate,Single,MI,Blue-collar,159844.98,1.03
+C001380,F,40-50,Med,Graduate,Single,MI,White-collar,170463.88,4.91
+C001381,F,40-50,Low,Uneducated,Single,NY,Retirees,83797.68,3.93
+C001382,F,50-60,High,Uneducated,Single,TX,Businessman,219676.64,1.1
+C001383,M,50-60,Med,High School,Single,CA,Retirees,68457.9,4.8
+C001384,F,30-40,Med,Post-Graduate,Single,MI,Selfemployed,133181.36,4.73
+C001385,F,40-50,Low,Uneducated,Unknown,NY,White-collar,39217.85,3.65
+C001386,M,60+,High,Post-Graduate,Single,NY,Businessman,93028.83,2.18
+C001387,F,40-50,High,Doctorate,Unknown,NY,Businessman,145378.12,3.08
+C001388,M,50-60,High,Doctorate,Unknown,PA,Govt,173181.08,1.51
+C001389,M,50-60,Med,Uneducated,Single,MI,Blue-collar,205293.34,4.8
+C001390,F,40-50,Med,High School,Single,GA,White-collar,226700.01,2.69
+C001391,M,60+,High,Doctorate,Unknown,IL,Blue-collar,163849.69,4.04
+C001392,F,40-50,Low,Unknown,Unknown,GA,Businessman,144689.79,3.14
+C001393,M,50-60,High,Uneducated,Unknown,NY,Businessman,230788.77,1.67
+C001394,M,60+,High,Doctorate,Unknown,NC,Selfemployed,169069.98,4.24
+C001395,F,40-50,High,Graduate,Single,NC,Businessman,244682.92,4.56
+C001396,F,30-40,High,High School,Unknown,FL,Govt,125081.56,3.65
+C001397,M,50-60,Med,Doctorate,Married,NC,Selfemployed,221683.04,3.55
+C001398,M,50-60,Med,Uneducated,Single,NJ,Govt,55114.56,1.5
+C001399,F,50-60,Low,Uneducated,Unknown,GA,White-collar,245493.98,4.8
+C001400,F,40-50,Low,Graduate,Unknown,TX,Retirees,161703.5,4.54
+C001401,M,40-50,High,Graduate,Unknown,NC,Businessman,178490.38,3.46
+C001402,F,40-50,Low,Unknown,Unknown,IL,White-collar,59424.72,2.21
+C001403,F,50-60,High,Doctorate,Married,NY,White-collar,148780.98,2.28
+C001404,F,50-60,Med,Unknown,Single,GA,White-collar,66057.11,3.28
+C001405,M,50-60,High,Post-Graduate,Married,IL,White-collar,204638.77,3.59
+C001406,F,50-60,Med,Graduate,Married,IL,Selfemployed,131009.65,2.42
+C001407,M,60+,Med,High School,Unknown,GA,Businessman,52163.89,4.2
+C001408,M,40-50,Low,High School,Unknown,TX,Blue-collar,155665.7,4.93
+C001409,F,40-50,High,Graduate,Single,PA,Selfemployed,179565.33,4.58
+C001410,F,40-50,High,High School,Single,PA,Selfemployed,191160.89,2.61
+C001411,F,60+,High,Graduate,Unknown,MI,Selfemployed,28854.92,5.0
+C001412,F,40-50,Low,Post-Graduate,Married,NC,Selfemployed,209543.84,2.17
+C001413,M,20-30,High,High School,Single,PA,Blue-collar,194533.64,2.81
+C001414,M,40-50,High,Unknown,Single,FL,Govt,147970.5,4.55
+C001415,M,40-50,Low,Uneducated,Single,IL,Businessman,99214.89,2.51
+C001416,M,40-50,High,Doctorate,Married,TX,Govt,152668.2,1.98
+C001417,M,40-50,Low,Unknown,Married,CA,Blue-collar,155782.42,4.37
+C001418,M,40-50,Low,Doctorate,Single,MI,Govt,221069.31,2.44
+C001419,F,40-50,Low,High School,Married,GA,Selfemployed,155857.99,1.32
+C001420,M,40-50,High,High School,Single,NJ,Businessman,131949.06,4.25
+C001421,F,40-50,Med,Graduate,Single,NC,Blue-collar,134109.74,3.56
+C001422,M,40-50,High,Graduate,Single,NY,Govt,17821.66,4.54
+C001423,F,60+,Med,Post-Graduate,Single,FL,Retirees,41284.19,2.09
+C001424,F,40-50,Med,Graduate,Unknown,TX,Govt,153603.83,4.02
+C001425,M,40-50,High,High School,Married,GA,Businessman,157337.39,4.8
+C001426,F,20-30,High,Uneducated,Unknown,NJ,Govt,234563.08,2.93
+C001427,F,60+,High,Post-Graduate,Single,NJ,Businessman,101264.98,3.56
+C001428,M,40-50,Low,Post-Graduate,Unknown,PA,Govt,113866.09,4.64
+C001429,F,40-50,Low,Unknown,Married,TX,Blue-collar,135250.63,3.44
+C001430,F,40-50,High,High School,Married,NJ,Retirees,228301.53,4.89
+C001431,F,40-50,Med,Post-Graduate,Unknown,PA,Blue-collar,240536.0,3.66
+C001432,F,30-40,Low,Graduate,Married,NY,Businessman,74215.34,1.29
+C001433,M,30-40,High,Graduate,Married,IL,Retirees,128738.56,1.07
+C001434,M,40-50,Low,Graduate,Unknown,IL,White-collar,117135.68,4.83
+C001435,M,50-60,High,Graduate,Married,NJ,Blue-collar,34601.52,2.71
+C001436,F,50-60,High,Doctorate,Married,FL,White-collar,134658.47,2.38
+C001437,M,50-60,Med,High School,Married,MI,White-collar,201826.09,3.43
+C001438,M,50-60,High,Post-Graduate,Single,FL,Selfemployed,215563.96,3.96
+C001439,F,20-30,Med,Uneducated,Unknown,GA,Selfemployed,168429.35,4.72
+C001440,M,20-30,High,Doctorate,Single,NJ,Selfemployed,19596.33,2.98
+C001441,M,50-60,High,Unknown,Unknown,NY,Govt,223264.45,2.36
+C001442,F,50-60,High,Uneducated,Married,NJ,Selfemployed,56009.47,2.07
+C001443,F,40-50,High,Doctorate,Unknown,NJ,Businessman,230002.62,3.41
+C001444,F,40-50,Low,Uneducated,Unknown,NC,White-collar,234741.74,4.01
+C001445,M,30-40,Med,Post-Graduate,Married,TX,Selfemployed,42611.61,2.58
+C001446,F,30-40,High,High School,Unknown,IL,Businessman,145989.63,3.73
+C001447,F,40-50,Low,Uneducated,Unknown,IL,Retirees,132540.19,1.37
+C001448,F,40-50,High,Post-Graduate,Single,MI,Govt,159527.32,3.24
+C001449,F,30-40,Med,Post-Graduate,Unknown,NC,Govt,121253.35,1.13
+C001450,M,50-60,High,High School,Married,MI,Businessman,101764.84,1.69
+C001451,F,40-50,Med,Graduate,Married,GA,Retirees,114630.27,4.24
+C001452,M,50-60,Med,Doctorate,Single,MI,Govt,46554.54,1.84
+C001453,M,40-50,High,High School,Married,GA,Blue-collar,162277.5,1.32
+C001454,F,20-30,Low,Post-Graduate,Single,TX,Govt,50310.81,4.3
+C001455,F,40-50,Low,Graduate,Unknown,NY,Retirees,218880.09,1.56
+C001456,M,50-60,Low,Unknown,Married,NY,Selfemployed,227688.45,4.71
+C001457,M,60+,Med,Graduate,Unknown,NJ,Businessman,61260.81,4.37
+C001458,F,30-40,Med,Unknown,Married,PA,White-collar,235404.95,4.37
+C001459,M,50-60,High,Unknown,Married,CA,Businessman,117856.32,1.86
+C001460,F,60+,High,Doctorate,Single,GA,Businessman,48068.2,4.91
+C001461,F,40-50,Med,Uneducated,Unknown,MI,White-collar,31963.83,3.88
+C001462,M,40-50,High,Graduate,Single,GA,Retirees,159286.58,3.63
+C001463,M,40-50,Med,Doctorate,Married,MI,Retirees,209917.6,2.72
+C001464,F,30-40,Med,Doctorate,Single,NY,Businessman,112367.75,1.68
+C001465,M,50-60,High,Doctorate,Married,NY,Retirees,30045.59,1.92
+C001466,M,30-40,Med,Graduate,Unknown,TX,Retirees,237763.16,4.87
+C001467,F,60+,Low,Doctorate,Married,CA,Retirees,196191.9,4.28
+C001468,M,50-60,Med,High School,Married,CA,Selfemployed,163758.61,4.27
+C001469,F,40-50,Low,Unknown,Unknown,NJ,White-collar,129845.05,1.97
+C001470,F,40-50,Med,Uneducated,Unknown,TX,Selfemployed,131214.88,1.92
+C001471,M,40-50,Med,Unknown,Married,NJ,Blue-collar,74605.26,1.1
+C001472,F,50-60,Med,Doctorate,Single,GA,Selfemployed,236925.13,2.18
+C001473,F,40-50,Med,Graduate,Single,GA,Govt,17110.74,1.62
+C001474,F,50-60,High,Uneducated,Unknown,IL,Govt,236612.61,1.3
+C001475,M,50-60,Low,Uneducated,Single,NY,Blue-collar,37018.58,2.4
+C001476,F,50-60,Med,Graduate,Single,PA,White-collar,122735.81,3.63
+C001477,M,30-40,Low,Doctorate,Unknown,PA,Businessman,231964.09,4.81
+C001478,F,60+,Low,Graduate,Married,TX,Blue-collar,187934.36,4.12
+C001479,M,30-40,High,Post-Graduate,Single,IL,Retirees,95356.7,4.82
+C001480,M,40-50,High,High School,Single,FL,Blue-collar,146970.26,3.6
+C001481,M,40-50,Low,High School,Married,NY,Selfemployed,225681.64,1.09
+C001482,M,40-50,Low,Unknown,Single,TX,Govt,69974.96,2.37
+C001483,M,40-50,Low,Graduate,Single,IL,White-collar,116108.07,4.12
+C001484,F,40-50,Low,Doctorate,Single,NY,Selfemployed,48445.31,4.46
+C001485,F,50-60,High,Post-Graduate,Unknown,MI,White-collar,214156.54,2.05
+C001486,M,30-40,Low,Unknown,Single,TX,Retirees,180179.34,3.91
+C001487,F,40-50,Low,Post-Graduate,Unknown,NJ,Blue-collar,34261.58,4.68
+C001488,M,40-50,Med,Doctorate,Unknown,GA,Blue-collar,71915.73,1.57
+C001489,M,60+,Low,High School,Unknown,MI,Retirees,194497.16,2.58
+C001490,M,20-30,Med,High School,Single,MI,Govt,103589.97,1.19
+C001491,M,40-50,Med,Unknown,Married,CA,Selfemployed,18487.9,2.53
+C001492,M,30-40,Med,Unknown,Unknown,TX,White-collar,116475.25,2.61
+C001493,F,30-40,Med,Post-Graduate,Single,NJ,Govt,208035.77,3.1
+C001494,F,30-40,High,Uneducated,Single,GA,Retirees,149913.55,2.31
+C001495,M,40-50,Med,Uneducated,Single,IL,Retirees,185267.81,4.68
+C001496,M,20-30,Med,Uneducated,Single,NJ,Govt,245372.01,3.01
+C001497,F,20-30,High,Graduate,Single,IL,Businessman,92685.89,4.59
+C001498,F,50-60,Low,Uneducated,Married,NY,White-collar,173214.67,3.04
+C001499,F,30-40,Med,Doctorate,Unknown,MI,Retirees,29672.54,2.08
+C001500,M,40-50,High,Unknown,Unknown,NC,Blue-collar,150198.77,4.96
+C001501,F,50-60,Med,Uneducated,Married,GA,White-collar,144044.66,3.1
+C001502,M,40-50,Low,Unknown,Single,GA,Blue-collar,222632.42,3.06
+C001503,F,40-50,High,Post-Graduate,Unknown,PA,Retirees,126795.78,3.99
+C001504,F,40-50,Low,High School,Married,NC,Blue-collar,42948.17,1.58
+C001505,F,30-40,High,Doctorate,Unknown,GA,Govt,116004.06,1.38
+C001506,F,40-50,Med,Post-Graduate,Single,CA,Businessman,210976.18,2.18
+C001507,M,40-50,Low,Unknown,Single,NY,Retirees,143776.64,3.82
+C001508,M,50-60,Low,High School,Single,NY,Businessman,77453.08,2.97
+C001509,M,40-50,High,Uneducated,Unknown,NC,Businessman,25521.34,2.5
+C001510,F,30-40,Med,Uneducated,Single,FL,White-collar,17959.09,3.83
+C001511,M,30-40,Med,Post-Graduate,Married,NY,Blue-collar,239734.2,2.19
+C001512,M,50-60,High,Unknown,Married,TX,Blue-collar,244820.04,1.79
+C001513,M,40-50,High,Post-Graduate,Unknown,NJ,Govt,201430.44,4.12
+C001514,M,60+,Med,High School,Married,PA,White-collar,157434.37,3.44
+C001515,M,20-30,Low,Uneducated,Unknown,PA,White-collar,160193.07,2.24
+C001516,F,50-60,High,Graduate,Married,NY,Blue-collar,94469.36,4.81
+C001517,M,60+,Med,Post-Graduate,Married,NY,Selfemployed,91812.95,3.95
+C001518,F,40-50,High,Doctorate,Single,TX,White-collar,144731.24,1.19
+C001519,M,60+,Low,Graduate,Unknown,GA,Retirees,247647.59,1.77
+C001520,F,50-60,Med,Unknown,Married,NJ,White-collar,113963.4,2.28
+C001521,M,30-40,High,High School,Single,NY,Govt,177929.8,2.88
+C001522,F,60+,High,Uneducated,Married,TX,White-collar,62090.2,3.52
+C001523,M,20-30,Low,High School,Married,PA,Selfemployed,239097.51,4.88
+C001524,F,40-50,Low,Graduate,Married,FL,White-collar,169870.45,3.57
+C001525,M,50-60,High,Post-Graduate,Married,PA,Retirees,117540.14,3.55
+C001526,M,20-30,High,Uneducated,Single,CA,Retirees,99095.56,4.8
+C001527,F,50-60,High,Doctorate,Married,NJ,Businessman,155740.85,2.0
+C001528,F,50-60,High,High School,Single,NY,Retirees,130527.57,3.06
+C001529,M,50-60,Low,Uneducated,Unknown,TX,Retirees,113153.74,2.31
+C001530,M,40-50,Med,Post-Graduate,Married,FL,Blue-collar,34261.79,3.76
+C001531,F,40-50,Med,High School,Single,NJ,Businessman,75802.17,4.25
+C001532,M,50-60,Med,Post-Graduate,Single,TX,White-collar,52616.69,4.71
+C001533,F,50-60,High,Uneducated,Single,IL,Businessman,163330.8,2.78
+C001534,F,50-60,Low,Doctorate,Unknown,GA,White-collar,98788.51,3.73
+C001535,M,50-60,Low,Doctorate,Single,NC,Retirees,149561.0,4.84
+C001536,M,40-50,High,Graduate,Single,FL,Govt,87106.3,3.48
+C001537,M,60+,Low,Unknown,Married,FL,Selfemployed,95551.49,1.04
+C001538,F,50-60,Med,Doctorate,Married,NC,Blue-collar,117951.48,2.31
+C001539,F,30-40,Med,Unknown,Unknown,IL,Govt,102978.7,3.77
+C001540,F,50-60,Low,High School,Single,NY,Govt,158708.94,1.07
+C001541,M,40-50,Low,Unknown,Unknown,IL,Selfemployed,21305.28,1.95
+C001542,F,50-60,Low,Unknown,Single,PA,Govt,37932.57,1.13
+C001543,M,30-40,High,Doctorate,Married,TX,Govt,33076.0,1.42
+C001544,F,20-30,Low,Post-Graduate,Single,MI,White-collar,60846.29,1.53
+C001545,M,40-50,Low,Doctorate,Married,GA,Blue-collar,207216.14,1.14
+C001546,F,50-60,Med,Post-Graduate,Unknown,TX,Govt,42267.71,2.64
+C001547,M,40-50,Low,Post-Graduate,Single,NY,Businessman,52346.94,3.4
+C001548,M,60+,High,Doctorate,Married,FL,Selfemployed,51903.41,3.13
+C001549,M,50-60,Med,Graduate,Married,GA,Blue-collar,177823.93,1.81
+C001550,F,30-40,Med,Unknown,Unknown,FL,Retirees,220076.1,3.25
+C001551,M,50-60,High,Graduate,Married,NC,Businessman,213650.44,4.6
+C001552,F,50-60,Med,Post-Graduate,Unknown,NY,White-collar,247737.09,1.98
+C001553,F,50-60,Med,Doctorate,Unknown,CA,Govt,231165.27,3.09
+C001554,F,40-50,Med,Doctorate,Single,NC,Selfemployed,181300.45,4.55
+C001555,M,60+,Med,High School,Single,NC,Retirees,121699.38,2.83
+C001556,M,40-50,Med,Unknown,Single,FL,Selfemployed,241199.04,3.21
+C001557,M,40-50,High,High School,Unknown,MI,Selfemployed,54390.61,4.07
+C001558,F,50-60,Low,Uneducated,Married,MI,Govt,198043.11,1.28
+C001559,M,50-60,High,Graduate,Unknown,FL,Retirees,201630.11,3.02
+C001560,F,40-50,Low,Uneducated,Married,IL,Govt,248970.11,2.75
+C001561,F,40-50,High,Unknown,Single,GA,White-collar,206786.25,4.73
+C001562,M,20-30,Med,Graduate,Married,FL,Businessman,20378.66,3.39
+C001563,F,40-50,Low,Uneducated,Unknown,NY,Retirees,19498.37,1.56
+C001564,F,30-40,Low,Doctorate,Married,NC,Selfemployed,58874.64,4.96
+C001565,M,30-40,High,Unknown,Unknown,TX,Blue-collar,82826.24,3.14
+C001566,M,40-50,Med,Uneducated,Single,NY,Blue-collar,97278.21,4.3
+C001567,F,30-40,Med,Uneducated,Single,FL,Selfemployed,187263.81,2.64
+C001568,M,40-50,Med,Doctorate,Unknown,PA,Selfemployed,79397.27,3.22
+C001569,M,60+,High,Doctorate,Married,PA,White-collar,160941.87,2.54
+C001570,F,40-50,High,Graduate,Unknown,PA,Selfemployed,165486.85,1.48
+C001571,F,20-30,High,Doctorate,Single,GA,Retirees,67954.41,3.47
+C001572,F,40-50,Med,Doctorate,Married,MI,Selfemployed,71471.54,3.19
+C001573,F,60+,Low,Unknown,Married,IL,Retirees,228634.46,2.45
+C001574,F,50-60,High,Post-Graduate,Single,NJ,Selfemployed,240589.12,3.13
+C001575,F,30-40,Low,Post-Graduate,Unknown,PA,Blue-collar,22454.28,2.11
+C001576,F,50-60,Low,Doctorate,Single,NC,White-collar,83522.48,1.64
+C001577,F,40-50,High,Graduate,Single,NY,Govt,77015.69,1.74
+C001578,F,40-50,High,Unknown,Single,FL,White-collar,180195.04,3.01
+C001579,M,60+,Med,High School,Married,NC,Retirees,94485.1,4.71
+C001580,M,50-60,High,Graduate,Single,CA,Businessman,238514.98,3.12
+C001581,M,20-30,Low,Unknown,Unknown,TX,White-collar,230665.11,4.33
+C001582,M,40-50,Low,Uneducated,Unknown,PA,White-collar,76691.7,4.97
+C001583,F,20-30,Med,High School,Unknown,PA,Selfemployed,85305.05,2.4
+C001584,M,20-30,Low,Graduate,Married,NJ,Govt,45674.07,3.09
+C001585,M,40-50,High,Unknown,Unknown,NC,Govt,234513.8,4.04
+C001586,M,30-40,Med,Post-Graduate,Unknown,GA,Retirees,202736.74,1.94
+C001587,F,30-40,Med,Graduate,Married,NY,Blue-collar,236909.04,4.28
+C001588,M,50-60,High,High School,Married,NC,White-collar,165740.6,2.63
+C001589,M,40-50,High,Graduate,Single,FL,Businessman,51997.29,2.6
+C001590,F,40-50,Low,Graduate,Married,MI,Govt,207286.27,3.66
+C001591,F,40-50,Med,Doctorate,Single,CA,White-collar,46587.71,1.27
+C001592,M,50-60,Med,Graduate,Married,MI,Businessman,34417.51,2.14
+C001593,M,40-50,High,Doctorate,Single,CA,White-collar,144733.03,4.78
+C001594,M,40-50,Low,Unknown,Single,CA,White-collar,74890.99,4.31
+C001595,M,50-60,Med,Unknown,Married,MI,Businessman,116505.3,4.48
+C001596,F,50-60,Med,Doctorate,Single,IL,White-collar,243275.01,1.82
+C001597,F,20-30,High,High School,Single,MI,Govt,227931.16,3.91
+C001598,F,30-40,High,Graduate,Married,CA,Blue-collar,38261.49,1.96
+C001599,F,50-60,High,Graduate,Unknown,GA,Retirees,165735.97,2.74
+C001600,F,60+,High,Graduate,Unknown,TX,Blue-collar,98591.88,2.35
+C001601,F,40-50,Med,Post-Graduate,Married,FL,Blue-collar,193108.1,2.87
+C001602,F,50-60,Med,Uneducated,Unknown,TX,Businessman,199982.33,2.69
+C001603,F,20-30,Low,High School,Single,FL,Retirees,163251.43,4.06
+C001604,F,60+,Med,High School,Single,TX,Businessman,171563.42,3.54
+C001605,M,30-40,Med,Graduate,Married,FL,Businessman,160216.99,4.28
+C001606,M,40-50,High,Doctorate,Single,IL,Retirees,73445.37,3.48
+C001607,F,20-30,High,High School,Unknown,NC,Retirees,205689.81,2.47
+C001608,M,40-50,Low,High School,Married,NC,White-collar,106468.44,1.84
+C001609,M,30-40,Low,Post-Graduate,Married,IL,Retirees,53533.71,1.02
+C001610,F,50-60,Med,Unknown,Married,TX,Blue-collar,87362.41,2.45
+C001611,M,40-50,High,Doctorate,Single,FL,White-collar,198842.58,4.46
+C001612,M,60+,High,Doctorate,Unknown,TX,Businessman,227914.1,1.65
+C001613,M,20-30,High,Unknown,Unknown,FL,White-collar,146651.62,1.68
+C001614,F,40-50,Med,Unknown,Single,NC,Blue-collar,192405.97,3.14
+C001615,M,50-60,Med,Graduate,Single,GA,White-collar,118592.6,1.52
+C001616,M,20-30,High,Uneducated,Single,IL,Retirees,113061.67,2.38
+C001617,M,60+,Med,Post-Graduate,Single,TX,Govt,233474.51,3.61
+C001618,M,40-50,Low,High School,Unknown,CA,Selfemployed,120883.56,1.37
+C001619,M,20-30,Med,Doctorate,Single,IL,Retirees,81198.41,3.86
+C001620,M,50-60,Low,High School,Unknown,MI,Retirees,226588.69,3.7
+C001621,M,60+,Med,Doctorate,Married,NY,Selfemployed,51906.85,4.12
+C001622,M,30-40,Low,Post-Graduate,Married,MI,Retirees,49306.87,2.25
+C001623,M,40-50,Low,Graduate,Unknown,FL,Businessman,47712.31,4.63
+C001624,M,50-60,High,Doctorate,Unknown,TX,Blue-collar,189160.84,1.67
+C001625,F,40-50,High,Graduate,Married,CA,Blue-collar,167904.61,2.84
+C001626,M,40-50,Med,Unknown,Single,IL,Businessman,65103.08,3.93
+C001627,M,20-30,Low,Doctorate,Single,NY,Retirees,224985.92,1.27
+C001628,M,30-40,Med,Post-Graduate,Unknown,CA,Blue-collar,132693.29,1.08
+C001629,F,40-50,High,Post-Graduate,Married,MI,Govt,238276.74,2.81
+C001630,M,40-50,Med,Doctorate,Married,IL,Blue-collar,55745.2,4.57
+C001631,M,40-50,Low,Unknown,Married,TX,Blue-collar,229346.81,2.54
+C001632,F,60+,High,Post-Graduate,Unknown,NY,Govt,46573.59,1.62
+C001633,F,30-40,High,High School,Married,PA,Govt,61121.02,3.13
+C001634,M,40-50,High,Unknown,Married,NY,Businessman,154386.41,2.31
+C001635,F,20-30,Med,Uneducated,Unknown,NJ,Retirees,36301.63,4.11
+C001636,M,40-50,Med,Unknown,Unknown,IL,Retirees,199585.7,2.87
+C001637,F,30-40,Low,Unknown,Single,NJ,Govt,162204.23,4.83
+C001638,F,40-50,Med,Graduate,Single,NY,Blue-collar,192257.86,3.65
+C001639,M,50-60,High,Graduate,Single,NJ,Businessman,164708.7,2.08
+C001640,F,50-60,Med,Post-Graduate,Married,IL,White-collar,187370.92,4.88
+C001641,M,40-50,High,Uneducated,Married,MI,Blue-collar,198155.56,1.28
+C001642,M,50-60,Med,Uneducated,Married,TX,Blue-collar,71174.07,3.92
+C001643,F,40-50,Med,Post-Graduate,Single,NC,Selfemployed,164774.69,3.91
+C001644,M,40-50,High,Uneducated,Married,TX,Selfemployed,142338.43,3.79
+C001645,M,50-60,Low,High School,Married,MI,Businessman,44011.39,1.76
+C001646,M,30-40,Med,Graduate,Unknown,NC,Businessman,90726.93,2.01
+C001647,M,30-40,Low,Uneducated,Married,PA,Govt,79035.51,2.01
+C001648,F,30-40,High,High School,Single,NJ,Selfemployed,44725.53,3.63
+C001649,M,30-40,Low,Graduate,Unknown,MI,Businessman,166747.69,1.48
+C001650,M,50-60,Med,Uneducated,Married,IL,Retirees,148777.49,1.09
+C001651,M,30-40,High,High School,Single,TX,Blue-collar,56400.85,2.64
+C001652,F,40-50,High,Post-Graduate,Unknown,IL,White-collar,28848.79,2.36
+C001653,M,50-60,High,High School,Single,TX,Govt,213726.01,4.09
+C001654,F,50-60,Med,Doctorate,Unknown,TX,Businessman,113333.53,2.25
+C001655,F,40-50,Low,Doctorate,Married,MI,White-collar,180911.03,3.32
+C001656,M,20-30,Low,Doctorate,Unknown,TX,Govt,119337.73,3.08
+C001657,M,50-60,Med,Graduate,Unknown,CA,Businessman,85919.0,3.61
+C001658,M,20-30,High,Uneducated,Married,NJ,Govt,174172.95,4.84
+C001659,M,40-50,Med,Uneducated,Unknown,NY,Businessman,109495.58,2.48
+C001660,F,40-50,High,Post-Graduate,Married,GA,Govt,44971.67,4.37
+C001661,M,50-60,High,Post-Graduate,Married,GA,Govt,140302.67,3.23
+C001662,F,30-40,Med,High School,Unknown,GA,Govt,53541.84,2.85
+C001663,F,60+,Med,Graduate,Single,GA,Retirees,83427.23,4.77
+C001664,M,50-60,High,High School,Unknown,NY,Businessman,124325.24,3.47
+C001665,M,40-50,Med,Uneducated,Single,NJ,White-collar,23841.53,2.5
+C001666,F,40-50,Med,Unknown,Married,TX,Businessman,40065.46,1.33
+C001667,M,20-30,Med,Uneducated,Married,TX,White-collar,46952.98,1.12
+C001668,M,30-40,High,Uneducated,Unknown,IL,Businessman,56168.19,2.64
+C001669,M,40-50,Low,Doctorate,Married,FL,Businessman,248063.5,3.95
+C001670,F,40-50,Low,High School,Unknown,GA,Blue-collar,155772.9,4.69
+C001671,F,40-50,High,Uneducated,Single,PA,Selfemployed,36868.72,1.65
+C001672,F,30-40,Med,Graduate,Single,PA,Retirees,34560.9,1.11
+C001673,M,40-50,High,High School,Single,NC,White-collar,189784.39,2.75
+C001674,F,50-60,High,Uneducated,Married,IL,Govt,158242.01,4.29
+C001675,M,30-40,Med,High School,Unknown,TX,Businessman,29254.73,3.55
+C001676,F,40-50,Med,Post-Graduate,Married,NJ,Selfemployed,222331.62,3.25
+C001677,M,30-40,High,Uneducated,Unknown,FL,Selfemployed,199678.35,1.24
+C001678,F,20-30,Low,High School,Single,IL,Selfemployed,214372.57,1.0
+C001679,M,40-50,Low,Post-Graduate,Single,NJ,White-collar,29758.0,4.49
+C001680,M,40-50,Med,Unknown,Single,CA,Govt,126125.03,2.15
+C001681,F,40-50,Low,Post-Graduate,Married,PA,White-collar,98976.8,1.71
+C001682,F,50-60,Med,Doctorate,Married,MI,Retirees,94179.33,2.03
+C001683,M,30-40,Low,Unknown,Single,NY,White-collar,45869.55,4.18
+C001684,M,50-60,High,Uneducated,Unknown,FL,Selfemployed,203772.54,2.01
+C001685,F,50-60,High,High School,Married,PA,Selfemployed,133783.32,3.96
+C001686,M,20-30,Low,High School,Single,MI,Govt,88620.26,4.43
+C001687,M,20-30,Med,Unknown,Unknown,PA,Govt,232619.35,3.11
+C001688,F,40-50,Med,Graduate,Single,NJ,Govt,128777.93,1.98
+C001689,F,50-60,Med,Uneducated,Unknown,NY,Govt,73354.57,3.93
+C001690,F,20-30,High,Doctorate,Unknown,NY,Businessman,232194.3,1.59
+C001691,F,50-60,High,Graduate,Married,MI,Govt,119316.3,1.52
+C001692,F,40-50,Med,High School,Married,NY,Govt,15146.61,2.49
+C001693,F,20-30,Med,Unknown,Married,NY,Govt,191786.7,3.73
+C001694,M,50-60,Low,Post-Graduate,Unknown,CA,Retirees,81963.34,1.43
+C001695,F,40-50,Med,Doctorate,Single,NJ,White-collar,128469.82,4.0
+C001696,M,40-50,Med,Graduate,Single,GA,Blue-collar,244150.41,2.49
+C001697,F,30-40,Med,High School,Married,GA,Selfemployed,45711.07,1.67
+C001698,M,40-50,Low,Unknown,Married,FL,White-collar,31394.58,3.76
+C001699,M,30-40,High,Unknown,Unknown,CA,Businessman,202259.85,2.09
+C001700,M,40-50,Med,Unknown,Unknown,CA,Retirees,33275.65,4.79
+C001701,F,60+,Med,Unknown,Unknown,NC,Blue-collar,19604.32,3.74
+C001702,F,40-50,Low,Uneducated,Unknown,NJ,Retirees,141338.29,1.65
+C001703,F,50-60,High,Unknown,Married,TX,White-collar,241537.18,2.65
+C001704,F,50-60,High,High School,Married,PA,Govt,50859.51,2.12
+C001705,F,30-40,High,High School,Married,GA,Selfemployed,181690.85,2.63
+C001706,F,50-60,High,Graduate,Married,CA,White-collar,189871.79,4.71
+C001707,M,50-60,High,Graduate,Single,TX,Govt,113432.6,4.03
+C001708,F,60+,High,Graduate,Single,NY,Businessman,26142.22,1.99
+C001709,F,40-50,Low,Graduate,Unknown,GA,White-collar,233006.29,4.91
+C001710,M,40-50,Low,Graduate,Unknown,FL,Selfemployed,160911.57,4.91
+C001711,M,40-50,Med,Uneducated,Unknown,MI,Govt,115257.57,1.22
+C001712,M,30-40,Med,Doctorate,Unknown,CA,Govt,166556.35,2.26
+C001713,F,60+,High,High School,Unknown,FL,Selfemployed,103257.8,3.82
+C001714,M,60+,Low,Graduate,Married,CA,Businessman,242075.57,4.36
+C001715,M,40-50,High,Post-Graduate,Single,NJ,Govt,213350.9,4.72
+C001716,F,20-30,Low,Graduate,Single,NC,Blue-collar,203842.79,4.91
+C001717,F,40-50,Med,Unknown,Single,NY,Selfemployed,66075.72,3.24
+C001718,M,30-40,Med,Uneducated,Unknown,IL,Blue-collar,241491.41,1.17
+C001719,F,40-50,Med,Uneducated,Unknown,NJ,White-collar,50750.3,3.33
+C001720,M,50-60,Med,Uneducated,Unknown,FL,Retirees,168743.06,3.85
+C001721,F,60+,Low,High School,Unknown,NC,Businessman,158122.99,4.19
+C001722,M,50-60,High,Graduate,Married,FL,Selfemployed,96909.34,4.32
+C001723,M,40-50,Med,Graduate,Married,MI,Selfemployed,180596.31,3.29
+C001724,M,40-50,Med,Post-Graduate,Unknown,NC,Govt,84180.13,2.77
+C001725,M,50-60,Med,Unknown,Unknown,IL,Retirees,91247.95,2.95
+C001726,F,40-50,Med,Graduate,Single,IL,Govt,190326.6,3.97
+C001727,F,50-60,High,Unknown,Married,PA,Businessman,105360.71,4.96
+C001728,F,50-60,High,High School,Married,CA,Businessman,48416.52,4.3
+C001729,M,60+,High,Post-Graduate,Unknown,NY,Businessman,107126.39,2.58
+C001730,F,30-40,Low,Post-Graduate,Unknown,FL,Retirees,20371.31,3.35
+C001731,F,50-60,Med,Doctorate,Single,PA,Govt,115591.08,2.67
+C001732,F,60+,High,Doctorate,Unknown,IL,Selfemployed,139143.03,2.66
+C001733,M,40-50,High,High School,Married,CA,Blue-collar,177337.93,1.71
+C001734,F,50-60,High,Unknown,Married,GA,White-collar,22977.26,3.06
+C001735,M,50-60,High,Uneducated,Unknown,NY,Businessman,30208.46,1.37
+C001736,M,30-40,Low,Doctorate,Unknown,NC,Selfemployed,201180.25,3.99
+C001737,M,40-50,High,Uneducated,Single,IL,Businessman,165793.18,2.26
+C001738,F,40-50,High,High School,Married,FL,Businessman,143636.46,2.19
+C001739,F,20-30,Low,Post-Graduate,Unknown,NY,Retirees,236131.17,4.6
+C001740,M,50-60,Low,Doctorate,Married,NC,White-collar,119353.65,2.66
+C001741,M,50-60,High,Doctorate,Married,GA,Selfemployed,125021.68,2.69
+C001742,F,30-40,High,Graduate,Married,IL,Businessman,204003.4,1.77
+C001743,M,50-60,Low,Graduate,Married,IL,Govt,193816.35,1.6
+C001744,M,20-30,High,High School,Unknown,PA,Selfemployed,151953.68,2.3
+C001745,F,60+,Med,High School,Single,CA,Retirees,71437.54,1.65
+C001746,M,30-40,Med,Unknown,Single,TX,Retirees,193598.35,1.26
+C001747,M,30-40,Low,Graduate,Single,NJ,Blue-collar,25808.33,3.05
+C001748,M,60+,Med,High School,Unknown,IL,Retirees,74820.73,1.72
+C001749,F,30-40,Low,Post-Graduate,Single,PA,Selfemployed,129156.12,2.52
+C001750,M,40-50,Low,High School,Unknown,MI,Govt,171620.76,4.67
+C001751,M,50-60,High,High School,Single,NJ,Blue-collar,106865.27,4.46
+C001752,M,40-50,Low,Graduate,Unknown,IL,Blue-collar,77809.43,2.83
+C001753,M,50-60,High,Unknown,Unknown,TX,Blue-collar,135513.31,1.52
+C001754,F,30-40,High,Uneducated,Unknown,FL,White-collar,15227.89,4.52
+C001755,M,60+,Med,Doctorate,Unknown,FL,Govt,186514.99,4.15
+C001756,F,30-40,High,Uneducated,Married,CA,Businessman,86910.1,1.22
+C001757,F,30-40,Med,Doctorate,Unknown,CA,White-collar,83016.1,3.67
+C001758,F,30-40,Low,Doctorate,Married,NY,Retirees,231250.71,1.48
+C001759,F,20-30,Med,High School,Married,IL,Retirees,67519.54,4.4
+C001760,M,50-60,High,Doctorate,Unknown,FL,Retirees,220340.95,2.47
+C001761,F,60+,Med,Doctorate,Single,NJ,Selfemployed,122538.67,4.06
+C001762,F,50-60,Med,Graduate,Married,PA,Businessman,48853.24,4.29
+C001763,M,40-50,High,Unknown,Married,IL,White-collar,206594.56,4.67
+C001764,F,40-50,High,Doctorate,Married,FL,Blue-collar,66361.55,3.52
+C001765,M,50-60,High,Unknown,Married,NC,Selfemployed,61270.81,3.49
+C001766,F,40-50,Low,Uneducated,Unknown,TX,Businessman,180350.38,1.65
+C001767,F,50-60,High,High School,Married,FL,Businessman,106316.1,2.27
+C001768,M,30-40,Low,Post-Graduate,Married,NJ,Selfemployed,134964.39,3.33
+C001769,M,40-50,Med,Uneducated,Unknown,NY,Businessman,242149.33,4.98
+C001770,M,50-60,Med,Unknown,Single,FL,White-collar,88342.36,1.79
+C001771,M,40-50,Med,Unknown,Married,GA,White-collar,165187.33,2.58
+C001772,F,40-50,High,Post-Graduate,Married,NJ,Retirees,179732.85,2.93
+C001773,M,40-50,High,Uneducated,Single,GA,Govt,161222.67,3.75
+C001774,F,60+,Med,Uneducated,Married,FL,Retirees,143220.06,2.99
+C001775,F,60+,Low,Graduate,Single,NJ,White-collar,82649.6,4.61
+C001776,F,50-60,Med,Graduate,Married,CA,Selfemployed,243537.16,1.56
+C001777,M,40-50,High,Post-Graduate,Single,NY,Retirees,196793.32,1.09
+C001778,M,40-50,High,Doctorate,Married,NY,Govt,242233.41,4.31
+C001779,M,40-50,Low,Graduate,Unknown,IL,Selfemployed,53589.21,3.99
+C001780,M,40-50,Med,Unknown,Married,NJ,White-collar,223311.84,1.75
+C001781,M,20-30,High,Unknown,Unknown,FL,Retirees,193087.16,1.34
+C001782,M,60+,Med,High School,Unknown,PA,Businessman,58334.93,4.24
+C001783,F,20-30,High,Post-Graduate,Unknown,TX,Govt,222574.53,3.85
+C001784,F,40-50,High,Post-Graduate,Married,TX,Businessman,237739.15,1.97
+C001785,M,50-60,Low,Post-Graduate,Single,GA,White-collar,203451.39,4.19
+C001786,F,60+,Low,Unknown,Unknown,GA,Govt,189856.64,4.76
+C001787,M,40-50,Med,Post-Graduate,Single,NJ,Blue-collar,188038.33,2.65
+C001788,F,50-60,High,Post-Graduate,Single,TX,Selfemployed,197469.46,4.8
+C001789,M,20-30,High,Unknown,Single,NC,Blue-collar,180554.87,1.75
+C001790,M,30-40,Low,Uneducated,Single,TX,Businessman,57502.61,1.89
+C001791,F,30-40,Med,High School,Unknown,PA,Businessman,236041.84,4.39
+C001792,F,30-40,Med,Graduate,Married,GA,Govt,207900.99,2.79
+C001793,M,50-60,High,Doctorate,Married,FL,Retirees,223019.18,1.3
+C001794,F,50-60,High,Doctorate,Unknown,FL,Retirees,208372.15,2.43
+C001795,F,40-50,High,Unknown,Married,NY,Selfemployed,231339.77,2.9
+C001796,F,40-50,Med,Post-Graduate,Unknown,FL,Selfemployed,231392.86,3.4
+C001797,F,50-60,Med,Uneducated,Unknown,NY,Retirees,68215.83,3.89
+C001798,M,20-30,Low,Doctorate,Single,NC,Retirees,222364.44,3.1
+C001799,M,50-60,Med,Doctorate,Married,MI,Blue-collar,209904.94,1.98
+C001800,M,50-60,High,Doctorate,Married,PA,Govt,151032.41,2.21
+C001801,M,50-60,Med,Unknown,Unknown,GA,Selfemployed,249415.66,1.2
+C001802,F,40-50,Med,Doctorate,Unknown,TX,White-collar,27571.57,2.72
+C001803,F,60+,Med,Graduate,Married,NY,Selfemployed,23671.5,1.68
+C001804,F,50-60,High,Doctorate,Married,NY,Retirees,203065.79,4.3
+C001805,F,40-50,High,Doctorate,Single,FL,Govt,183204.06,4.79
+C001806,F,30-40,Low,High School,Single,CA,Blue-collar,195917.58,2.62
+C001807,F,40-50,Med,Unknown,Married,GA,Selfemployed,207086.87,2.37
+C001808,M,20-30,High,Post-Graduate,Unknown,FL,White-collar,249880.12,1.93
+C001809,F,50-60,Med,Post-Graduate,Married,NJ,Retirees,216847.98,3.88
+C001810,M,40-50,Low,Uneducated,Single,NJ,Retirees,67836.72,3.4
+C001811,M,50-60,Med,Uneducated,Unknown,NJ,Blue-collar,227094.51,4.73
+C001812,M,20-30,Med,Post-Graduate,Unknown,NJ,White-collar,20616.47,3.13
+C001813,F,40-50,High,Post-Graduate,Married,MI,Businessman,235109.74,2.27
+C001814,F,40-50,High,Graduate,Single,FL,Govt,30521.88,4.46
+C001815,M,20-30,Low,Unknown,Unknown,NC,White-collar,207740.82,3.54
+C001816,F,20-30,High,Unknown,Unknown,PA,Selfemployed,45574.41,4.95
+C001817,F,20-30,High,Unknown,Unknown,MI,Blue-collar,104530.77,3.36
+C001818,F,50-60,Med,Post-Graduate,Unknown,NJ,Retirees,166043.71,3.06
+C001819,M,30-40,Med,High School,Single,GA,Businessman,124707.03,1.82
+C001820,M,40-50,High,Doctorate,Single,NJ,Blue-collar,217051.8,2.1
+C001821,F,20-30,Med,High School,Unknown,NJ,Govt,42805.29,2.84
+C001822,F,30-40,Med,High School,Married,NJ,Blue-collar,167851.94,2.06
+C001823,F,40-50,High,Post-Graduate,Single,FL,Govt,61731.41,2.51
+C001824,M,50-60,Med,Graduate,Married,CA,Businessman,234149.43,4.01
+C001825,F,50-60,Low,Unknown,Unknown,NJ,Businessman,182959.17,2.58
+C001826,M,50-60,High,Graduate,Unknown,TX,Businessman,140050.57,3.91
+C001827,M,50-60,Med,Unknown,Unknown,TX,Selfemployed,87049.6,1.61
+C001828,M,40-50,High,Graduate,Single,NY,White-collar,146484.3,4.41
+C001829,F,50-60,Med,High School,Single,NC,White-collar,248840.4,1.94
+C001830,M,60+,Low,Unknown,Unknown,NJ,Selfemployed,242831.87,3.54
+C001831,F,50-60,High,Doctorate,Single,PA,Retirees,176305.98,3.46
+C001832,M,50-60,Med,Post-Graduate,Unknown,GA,White-collar,155456.04,4.93
+C001833,F,40-50,Med,Uneducated,Single,GA,Blue-collar,79395.83,1.79
+C001834,F,50-60,High,Post-Graduate,Single,FL,Businessman,27138.52,2.55
+C001835,F,40-50,Low,Unknown,Married,TX,Blue-collar,77529.09,4.39
+C001836,F,50-60,Low,Doctorate,Single,NC,Govt,15057.92,1.77
+C001837,F,30-40,Low,Uneducated,Married,NJ,White-collar,83452.32,1.66
+C001838,M,40-50,High,High School,Single,NY,Businessman,79562.93,3.1
+C001839,F,40-50,Low,Doctorate,Unknown,MI,Blue-collar,120799.7,3.99
+C001840,M,50-60,Low,Uneducated,Unknown,TX,Retirees,18796.82,4.25
+C001841,M,30-40,High,Unknown,Married,FL,Businessman,60298.42,1.72
+C001842,F,50-60,High,Uneducated,Single,PA,Blue-collar,180218.01,3.64
+C001843,M,20-30,High,High School,Single,NJ,Govt,236710.31,3.51
+C001844,M,40-50,High,Unknown,Unknown,IL,White-collar,78514.5,1.01
+C001845,F,50-60,High,Unknown,Married,NY,Blue-collar,21784.28,4.98
+C001846,F,50-60,Low,Unknown,Single,TX,Businessman,123392.36,1.82
+C001847,F,50-60,Low,Post-Graduate,Unknown,CA,White-collar,78628.84,3.69
+C001848,M,60+,Low,Unknown,Married,MI,Retirees,220520.11,3.3
+C001849,F,20-30,High,Graduate,Married,NC,Blue-collar,83774.48,1.86
+C001850,M,30-40,High,Post-Graduate,Married,FL,Selfemployed,215645.93,4.83
+C001851,F,60+,Low,Doctorate,Unknown,TX,Businessman,137846.19,3.8
+C001852,F,40-50,High,High School,Unknown,NC,Blue-collar,93164.37,4.08
+C001853,F,50-60,Low,Unknown,Married,GA,Selfemployed,142812.71,1.45
+C001854,F,50-60,Low,Graduate,Unknown,CA,Govt,53763.48,3.94
+C001855,M,30-40,Med,Post-Graduate,Single,PA,Retirees,132675.62,1.06
+C001856,M,40-50,High,Uneducated,Single,GA,Businessman,73457.75,3.89
+C001857,F,40-50,Med,High School,Single,TX,Retirees,130967.89,3.46
+C001858,M,30-40,Low,High School,Unknown,PA,Businessman,117750.19,4.26
+C001859,M,20-30,Med,Post-Graduate,Married,IL,Govt,138911.6,1.4
+C001860,F,40-50,High,Post-Graduate,Unknown,MI,Businessman,36386.03,3.23
+C001861,F,20-30,Low,Graduate,Married,MI,Selfemployed,15969.53,3.74
+C001862,F,40-50,Low,Graduate,Unknown,PA,Blue-collar,89591.88,3.01
+C001863,M,50-60,High,High School,Unknown,MI,Businessman,80409.8,4.58
+C001864,M,60+,Med,Doctorate,Married,NC,Retirees,152761.1,1.6
+C001865,F,40-50,High,Post-Graduate,Single,NJ,Govt,151582.84,1.2
+C001866,F,50-60,Med,High School,Unknown,NY,Govt,140297.57,1.75
+C001867,F,40-50,High,Uneducated,Married,NY,White-collar,162353.97,1.97
+C001868,M,40-50,High,Graduate,Unknown,NJ,Retirees,64242.83,1.4
+C001869,F,60+,High,Doctorate,Married,IL,Blue-collar,42895.61,3.11
+C001870,F,60+,Med,Uneducated,Married,MI,Selfemployed,243873.0,1.34
+C001871,F,50-60,Med,Doctorate,Unknown,MI,Selfemployed,33341.69,2.96
+C001872,F,50-60,Med,Uneducated,Married,IL,Businessman,106877.03,2.49
+C001873,M,50-60,Low,Uneducated,Single,IL,Blue-collar,232677.22,4.83
+C001874,M,50-60,High,Uneducated,Single,TX,Blue-collar,153314.48,4.36
+C001875,M,20-30,High,Post-Graduate,Unknown,TX,Selfemployed,179882.53,3.68
+C001876,M,40-50,Low,Graduate,Unknown,MI,Retirees,145880.03,3.97
+C001877,F,50-60,Low,Uneducated,Married,FL,Businessman,219637.92,4.35
+C001878,M,50-60,High,Doctorate,Married,TX,Govt,177348.33,1.34
+C001879,F,20-30,High,Graduate,Unknown,FL,Selfemployed,234089.08,4.97
+C001880,F,50-60,Low,High School,Unknown,NC,Selfemployed,76360.7,3.19
+C001881,M,50-60,Med,Uneducated,Single,IL,Retirees,141920.3,2.23
+C001882,M,50-60,High,Doctorate,Single,PA,Selfemployed,22401.45,3.46
+C001883,F,50-60,Low,High School,Single,CA,White-collar,121536.58,2.47
+C001884,F,20-30,Low,Post-Graduate,Unknown,IL,White-collar,227570.5,1.83
+C001885,F,40-50,High,Post-Graduate,Married,CA,Selfemployed,225885.92,4.9
+C001886,M,30-40,Med,Graduate,Single,NC,Retirees,129502.49,2.0
+C001887,F,50-60,Low,Graduate,Unknown,FL,Govt,199089.04,3.25
+C001888,F,30-40,Low,Uneducated,Married,FL,Govt,197666.22,3.78
+C001889,M,60+,Low,High School,Single,PA,Blue-collar,105266.0,1.44
+C001890,M,50-60,High,Graduate,Married,NJ,White-collar,242138.43,3.68
+C001891,F,30-40,Low,High School,Married,GA,Retirees,140385.49,4.87
+C001892,F,50-60,Low,Post-Graduate,Single,GA,Retirees,119241.77,2.19
+C001893,F,60+,Low,Unknown,Single,GA,Blue-collar,231972.25,4.85
+C001894,F,40-50,Med,Uneducated,Unknown,NC,White-collar,140832.49,3.21
+C001895,F,20-30,Med,Graduate,Single,CA,White-collar,20015.54,2.55
+C001896,F,40-50,Med,Uneducated,Single,CA,Govt,87692.41,3.52
+C001897,F,50-60,Low,Uneducated,Unknown,NJ,Selfemployed,204373.87,1.39
+C001898,M,20-30,High,Graduate,Married,CA,White-collar,46565.93,4.29
+C001899,F,20-30,High,High School,Married,NY,Retirees,190160.45,3.85
+C001900,M,60+,High,Doctorate,Unknown,TX,Businessman,148291.95,3.78
+C001901,M,50-60,High,Unknown,Single,NC,Businessman,229374.57,1.99
+C001902,F,40-50,Low,Graduate,Unknown,IL,Retirees,119727.84,4.97
+C001903,M,40-50,Med,Uneducated,Unknown,IL,Govt,143552.05,3.22
+C001904,F,60+,Med,Graduate,Single,GA,Retirees,72557.93,4.68
+C001905,M,30-40,Med,Unknown,Unknown,FL,Govt,165831.41,1.2
+C001906,F,60+,Med,Doctorate,Married,MI,Blue-collar,122730.28,1.25
+C001907,M,50-60,Med,Post-Graduate,Unknown,NC,White-collar,33773.65,1.5
+C001908,M,40-50,Med,Uneducated,Unknown,PA,Govt,129000.03,2.65
+C001909,F,40-50,Low,Doctorate,Married,MI,Retirees,49990.28,1.22
+C001910,F,60+,High,Graduate,Unknown,TX,White-collar,140636.61,2.02
+C001911,F,40-50,High,Post-Graduate,Unknown,FL,Govt,187758.26,4.21
+C001912,F,50-60,Med,Graduate,Single,NJ,White-collar,57021.75,4.62
+C001913,F,30-40,Med,High School,Married,CA,Selfemployed,208565.89,3.5
+C001914,F,30-40,Med,Post-Graduate,Married,TX,Retirees,159881.68,1.5
+C001915,F,40-50,Med,Graduate,Unknown,PA,Businessman,143337.09,1.46
+C001916,M,60+,Low,High School,Unknown,TX,Retirees,106925.52,1.96
+C001917,F,20-30,Low,High School,Single,GA,Govt,156352.31,1.46
+C001918,F,40-50,Low,Doctorate,Married,IL,Govt,220767.97,3.69
+C001919,F,40-50,Low,Doctorate,Married,NY,White-collar,148419.98,2.94
+C001920,F,40-50,Low,Doctorate,Married,NY,Blue-collar,89826.41,4.17
+C001921,F,50-60,Low,Uneducated,Married,CA,White-collar,115621.91,3.69
+C001922,F,30-40,Low,Graduate,Married,MI,Govt,51356.58,2.79
+C001923,M,40-50,Low,Unknown,Single,GA,Blue-collar,153149.95,2.0
+C001924,F,60+,Med,High School,Unknown,IL,Blue-collar,34283.63,4.53
+C001925,M,20-30,High,Graduate,Unknown,MI,Retirees,109979.62,4.4
+C001926,F,40-50,Med,Graduate,Married,FL,White-collar,43624.51,2.53
+C001927,F,50-60,Low,High School,Married,NJ,Selfemployed,162808.51,4.16
+C001928,M,50-60,High,Graduate,Single,PA,White-collar,245704.42,2.15
+C001929,M,20-30,Med,Post-Graduate,Single,NC,White-collar,55451.72,3.33
+C001930,M,30-40,Low,Post-Graduate,Single,FL,Selfemployed,147666.46,3.39
+C001931,F,30-40,Low,High School,Married,NC,Businessman,129651.3,3.86
+C001932,F,50-60,Low,Post-Graduate,Single,TX,Govt,222684.05,2.88
+C001933,M,40-50,Low,Graduate,Unknown,IL,Selfemployed,77868.91,3.17
+C001934,M,50-60,High,Post-Graduate,Unknown,NC,Selfemployed,134272.93,1.54
+C001935,M,40-50,Med,Uneducated,Single,MI,White-collar,150209.92,2.74
+C001936,M,50-60,Low,Unknown,Married,IL,Businessman,174653.53,4.57
+C001937,F,40-50,High,Doctorate,Single,PA,White-collar,149055.56,4.05
+C001938,M,30-40,Med,Post-Graduate,Unknown,NJ,Govt,65549.95,3.71
+C001939,M,60+,Med,High School,Single,MI,Businessman,175919.17,1.33
+C001940,M,30-40,High,Doctorate,Single,FL,White-collar,74333.23,4.93
+C001941,F,50-60,High,Graduate,Unknown,NC,White-collar,214649.97,2.18
+C001942,M,40-50,Med,High School,Single,NY,Businessman,126946.8,4.58
+C001943,F,30-40,Low,Uneducated,Married,NJ,Businessman,232934.76,4.4
+C001944,M,20-30,High,Doctorate,Married,TX,Govt,59909.56,3.14
+C001945,M,50-60,High,Uneducated,Unknown,TX,White-collar,110113.71,1.37
+C001946,F,40-50,Med,Uneducated,Single,PA,Selfemployed,80749.52,3.39
+C001947,M,30-40,Low,Doctorate,Unknown,NJ,Govt,88334.82,1.21
+C001948,M,50-60,Med,High School,Unknown,NC,Selfemployed,229112.21,1.62
+C001949,M,40-50,Med,Unknown,Single,IL,Blue-collar,103703.09,3.22
+C001950,F,30-40,Low,Post-Graduate,Married,NC,Selfemployed,212854.74,1.55
+C001951,F,50-60,Low,Post-Graduate,Single,NC,Businessman,45327.85,1.82
+C001952,M,50-60,Low,High School,Unknown,TX,Govt,211960.96,3.55
+C001953,M,20-30,Med,Unknown,Unknown,NY,Retirees,78994.75,3.89
+C001954,M,60+,Med,Post-Graduate,Single,IL,Retirees,87294.94,3.85
+C001955,F,50-60,High,Unknown,Unknown,IL,Blue-collar,131708.14,4.88
+C001956,F,30-40,Med,Post-Graduate,Unknown,FL,Businessman,75415.14,1.91
+C001957,F,30-40,High,Doctorate,Married,IL,Selfemployed,192111.11,2.72
+C001958,F,40-50,High,Graduate,Unknown,GA,White-collar,78629.45,3.54
+C001959,M,40-50,High,Uneducated,Unknown,IL,Retirees,49436.38,3.22
+C001960,M,50-60,High,Uneducated,Married,NY,Selfemployed,231670.71,1.65
+C001961,F,40-50,Low,Doctorate,Single,IL,White-collar,102193.64,3.07
+C001962,F,40-50,Med,Doctorate,Unknown,PA,White-collar,112534.95,2.61
+C001963,M,50-60,High,Post-Graduate,Married,NC,Retirees,140432.39,3.48
+C001964,M,40-50,Med,Doctorate,Unknown,NJ,Selfemployed,190527.1,3.88
+C001965,F,20-30,High,Uneducated,Unknown,CA,Businessman,191877.97,2.66
+C001966,F,30-40,Low,Doctorate,Unknown,NY,Businessman,140809.91,3.76
+C001967,M,40-50,Med,High School,Single,IL,Govt,142921.2,1.22
+C001968,F,50-60,Med,Post-Graduate,Married,NJ,White-collar,110573.69,2.05
+C001969,M,50-60,High,Doctorate,Unknown,TX,Blue-collar,240762.51,1.4
+C001970,F,30-40,Low,Graduate,Single,MI,White-collar,31971.43,2.47
+C001971,M,50-60,Low,Graduate,Single,GA,Selfemployed,166042.55,2.22
+C001972,M,50-60,Low,High School,Unknown,NC,Govt,66971.64,3.41
+C001973,M,40-50,Med,Uneducated,Married,MI,Blue-collar,112295.64,4.72
+C001974,F,20-30,Med,High School,Married,MI,Selfemployed,25388.97,2.43
+C001975,F,50-60,Med,Uneducated,Married,MI,Retirees,125104.55,3.66
+C001976,M,20-30,Med,Unknown,Married,IL,Blue-collar,249479.46,1.0
+C001977,F,50-60,Med,Post-Graduate,Unknown,CA,Govt,96758.95,1.7
+C001978,M,30-40,Med,Graduate,Single,FL,Retirees,218143.78,2.36
+C001979,M,30-40,Low,Doctorate,Unknown,MI,Govt,116848.51,2.68
+C001980,F,50-60,High,Post-Graduate,Single,TX,Blue-collar,118528.61,3.53
+C001981,F,60+,Low,High School,Single,PA,Selfemployed,230720.23,2.92
+C001982,F,40-50,High,Doctorate,Unknown,GA,Businessman,204629.59,3.12
+C001983,F,50-60,Low,Uneducated,Single,TX,Businessman,124128.72,1.18
+C001984,M,60+,Low,Post-Graduate,Unknown,CA,Selfemployed,99986.43,1.74
+C001985,F,60+,Low,Graduate,Married,CA,Retirees,83697.78,3.37
+C001986,F,20-30,Low,Uneducated,Single,MI,Blue-collar,182700.88,4.01
+C001987,F,60+,High,Graduate,Single,PA,Selfemployed,204400.93,4.03
+C001988,F,40-50,Low,Graduate,Single,IL,Businessman,199089.23,4.68
+C001989,M,40-50,Low,High School,Unknown,NC,Govt,27927.45,2.37
+C001990,M,40-50,Med,High School,Married,GA,Blue-collar,168042.2,3.8
+C001991,F,50-60,Low,Doctorate,Married,NC,Retirees,158167.9,4.95
+C001992,F,20-30,High,Post-Graduate,Unknown,NY,White-collar,220656.79,1.22
+C001993,M,40-50,Med,Doctorate,Married,TX,Businessman,99381.2,3.3
+C001994,F,30-40,Low,Unknown,Married,CA,Businessman,211173.64,3.8
+C001995,M,50-60,Med,Post-Graduate,Married,TX,White-collar,114259.81,4.07
+C001996,M,40-50,High,Uneducated,Single,PA,Retirees,15189.6,3.99
+C001997,F,20-30,High,Doctorate,Single,GA,Retirees,164476.15,1.41
+C001998,M,50-60,High,Doctorate,Single,NY,White-collar,37934.92,4.09
+C001999,F,20-30,Med,Doctorate,Unknown,TX,Retirees,232435.33,4.56
+C002000,M,50-60,Med,Unknown,Married,IL,Blue-collar,92517.13,3.56
